@@ -1,0 +1,677 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "1.) Neural Architecture Search"
+    },
+    {
+      "description": "Gradient:",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks",
+          "description": "[CVPR 2020]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gmh14/RobNets",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-10-21T02:52:21Z",
+                "owner": "gmh14",
+                "repo": "RobNets",
+                "stars": 126
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Searching for A Robust Neural Architecture in Four GPU Hours",
+          "description": "[CVPR 2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "D-X-Y/GDAS",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-24T22:18:16Z",
+                "owner": "D-X-Y",
+                "repo": "AutoDL-Projects",
+                "stars": 1581
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours",
+          "description": "[2019/04]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dstamoulis/single-path-nas",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-12-14T08:08:59Z",
+                "owner": "enyac-group",
+                "repo": "single-path-nas",
+                "stars": 394
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning Implicitly Recurrent CNNs Through Parameter Sharing",
+          "description": "[ICLR 2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lolemacs/soft-sharing",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-12-15T03:30:10Z",
+                "owner": "lolemacs",
+                "repo": "soft-sharing",
+                "stars": 70
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Neural Architecture Optimization",
+          "description": "[NIPS 2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "renqianluo/NAO",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-01-11T06:26:01Z",
+                "owner": "renqianluo",
+                "repo": "NAO",
+                "stars": 285
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DARTS: Differentiable Architecture Search",
+          "description": "[2018/06]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "quark0/darts",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-01-03T02:21:40Z",
+                "owner": "quark0",
+                "repo": "darts",
+                "stars": 3995
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "khanrc/pt.darts",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-07-19T22:16:10Z",
+                "owner": "khanrc",
+                "repo": "pt.darts",
+                "stars": 452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dragen1860/DARTS-PyTorch",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-03-01T00:50:37Z",
+                "owner": "dragen1860",
+                "repo": "DARTS-PyTorch",
+                "stars": 80
+              }
+            }
+          ]
+        }
+      ],
+      "title": "[Papers]"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MindsDB",
+          "description": "[Python]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-12T06:21:30Z",
+            "owner": "mindsdb",
+            "repo": "mindshub",
+            "stars": 39557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft/nni",
+          "description": "[Python]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-03T10:55:10Z",
+            "owner": "microsoft",
+            "repo": "nni",
+            "stars": 14365
+          }
+        }
+      ],
+      "title": "[Projects]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.) Lightweight Structures"
+    },
+    {
+      "description": "Image Classification:",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+          "description": "[ICML 2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lukemelas/EfficientNet-PyTorch",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-08T12:30:25Z",
+                "owner": "lukemelas",
+                "repo": "EfficientNet-PyTorch",
+                "stars": 8222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tensorflow/tpu/models/official/efficientnet/",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-22T19:40:55Z",
+                "owner": "tensorflow",
+                "repo": "tpu",
+                "stars": 5279
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Searching for MobileNetV3",
+          "description": "[2019/05]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kuan-wang/pytorch-mobilenet-v3",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-06-23T01:31:09Z",
+                "owner": "kuan-wang",
+                "repo": "pytorch-mobilenet-v3",
+                "stars": 806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "leaderj1001/MobileNetV3-Pytorch",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-07-04T00:41:50Z",
+                "owner": "leaderj1001",
+                "repo": "MobileNetV3-Pytorch",
+                "stars": 299
+              }
+            }
+          ]
+        }
+      ],
+      "title": "[Papers]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.) Model Compression & Acceleration"
+    },
+    {
+      "description": "Pruning:",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+          "description": "[ICLR 2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "google-research/lottery-ticket-hypothesis",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2020-07-27T12:06:34Z",
+                "owner": "google-research",
+                "repo": "lottery-ticket-hypothesis",
+                "stars": 731
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Slimmable Neural Networks",
+          "description": "[ICLR 2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JiahuiYu/slimmable_networks",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-03-09T08:37:20Z",
+                "owner": "JiahuiYu",
+                "repo": "slimmable_networks",
+                "stars": 928
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AMC: AutoML for Model Compression and Acceleration on Mobile Devices",
+          "description": "[ECCV 2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AutoML for Model Compression (AMC): Trials and Tribulations",
+              "description": "[Pytorch]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning Efficient Convolutional Networks through Network Slimming",
+          "description": "[ICCV 2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "foolwood/pytorch-slimming",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-05-13T09:04:47Z",
+                "owner": "foolwood",
+                "repo": "pytorch-slimming",
+                "stars": 573
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Channel Pruning for Accelerating Very Deep Neural Networks",
+          "description": "[ICCV 2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "yihui-he/channel-pruning",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-02T06:37:43Z",
+                "owner": "ethanhe42",
+                "repo": "channel-pruning",
+                "stars": 1088
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Pruning Convolutional Neural Networks for Resource Efficient Inference",
+          "description": "[ICLR 2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jacobgil/pytorch-pruning",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-07-12T20:39:41Z",
+                "owner": "jacobgil",
+                "repo": "pytorch-pruning",
+                "stars": 885
+              }
+            }
+          ]
+        }
+      ],
+      "title": "[Papers]"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tencent/PocketFlow",
+          "description": "[Tensorflow]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-31T22:23:33Z",
+            "owner": "Tencent",
+            "repo": "PocketFlow",
+            "stars": 2908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aaron-xichen/pytorch-playground",
+          "description": "[Pytorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T04:06:41Z",
+            "owner": "aaron-xichen",
+            "repo": "pytorch-playground",
+            "stars": 2717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NervanaSystems/distiller",
+          "description": "[Pytorch]",
+          "children": []
+        }
+      ],
+      "title": "[Projects]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4.) Hyperparameter Optimization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly",
+          "description": "[2019/03]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dragonfly/dragonfly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-19T20:23:17Z",
+                "owner": "dragonfly",
+                "repo": "dragonfly",
+                "stars": 894
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice",
+          "description": "[Neurocomputing 2020]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-22T05:24:53Z",
+                "owner": "LiYangHart",
+                "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
+                "stars": 1338
+              }
+            }
+          ]
+        }
+      ],
+      "title": "[Papers]"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microsoft/nni",
+          "description": "[Python]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-03T10:55:10Z",
+            "owner": "microsoft",
+            "repo": "nni",
+            "stars": 14365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
+          "description": "[Python]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-09-22T05:24:53Z",
+            "owner": "LiYangHart",
+            "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
+            "stars": 1338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dragonfly/dragonfly",
+          "description": "[Python]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-19T20:23:17Z",
+            "owner": "dragonfly",
+            "repo": "dragonfly",
+            "stars": 894
+          }
+        }
+      ],
+      "title": "[Projects]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "5.) Automated Feature Engineering"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lyken17/pytorch-OpCounter",
+          "description": "[Pytorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-08T06:44:15Z",
+            "owner": "Lyken17",
+            "repo": "pytorch-OpCounter",
+            "stars": 5079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sksq96/pytorch-summary",
+          "description": "[Pytorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-02T15:10:25Z",
+            "owner": "sksq96",
+            "repo": "pytorch-summary",
+            "stars": 4054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sovrasov/flops-counter.pytorch",
+          "description": "[Pytorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-20T17:23:29Z",
+            "owner": "sovrasov",
+            "repo": "flops-counter.pytorch",
+            "stars": 2981
+          }
+        }
+      ],
+      "title": "Model Analyzer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mrgloom/awesome-semantic-segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-08T13:40:11Z",
+            "owner": "mrgloom",
+            "repo": "awesome-semantic-segmentation",
+            "stars": 10850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amusi/awesome-object-detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-17T04:28:58Z",
+            "owner": "amusi",
+            "repo": "awesome-object-detection",
+            "stars": 7500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hibayesian/awesome-automl-papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-11T16:51:05Z",
+            "owner": "hibayesian",
+            "repo": "awesome-automl-papers",
+            "stars": 4154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "handong1587/handong1587.github.io",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-11-22T02:04:15Z",
+            "owner": "handong1587",
+            "repo": "handong1587.github.io",
+            "stars": 3142
+          }
+        }
+      ],
+      "title": "References"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:33:28.871Z",
+    "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
+    "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
+    "enhanced_repository": "enhansome/enhansome-Awesome-AutoML-and-Lightweight-Models",
+    "enhanced_repository_description": null,
+    "title": "awesome-AutoML-and-Lightweight-Models with stars"
+  }
+}
