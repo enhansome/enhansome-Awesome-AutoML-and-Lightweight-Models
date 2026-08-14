@@ -129,7 +129,7 @@
                 "last_commit": "2021-01-03T02:21:40Z",
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3995
+                "stars": 3996
               }
             },
             {
@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "Makefile",
-            "last_commit": "2026-08-12T06:21:30Z",
+            "last_commit": "2026-08-13T21:48:08Z",
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39557
+            "stars": 39569
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2024-07-03T10:55:10Z",
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14365
+            "stars": 14363
           }
         }
       ],
@@ -237,7 +237,7 @@
                 "last_commit": "2026-06-22T19:40:55Z",
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5279
+                "stars": 5278
               }
             }
           ]
@@ -437,7 +437,7 @@
             "last_commit": "2022-11-22T04:06:41Z",
             "owner": "aaron-xichen",
             "repo": "pytorch-playground",
-            "stars": 2717
+            "stars": 2716
           }
         },
         {
@@ -494,7 +494,7 @@
                 "last_commit": "2022-09-22T05:24:53Z",
                 "owner": "LiYangHart",
                 "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                "stars": 1338
+                "stars": 1339
               }
             }
           ]
@@ -516,7 +516,7 @@
             "last_commit": "2024-07-03T10:55:10Z",
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14365
+            "stars": 14363
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2022-09-22T05:24:53Z",
             "owner": "LiYangHart",
             "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-            "stars": 1338
+            "stars": 1339
           }
         },
         {
@@ -631,7 +631,7 @@
             "last_commit": "2022-12-17T04:28:58Z",
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7500
+            "stars": 7502
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2024-06-11T16:51:05Z",
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4154
+            "stars": 4153
           }
         },
         {
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:33:28.871Z",
+    "last_updated": "2026-08-14T16:29:57.900Z",
     "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
     "enhanced_repository": "enhansome/enhansome-Awesome-AutoML-and-Lightweight-Models",
