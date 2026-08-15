@@ -179,7 +179,7 @@
             "last_commit": "2026-08-13T21:48:08Z",
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39569
+            "stars": 39579
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2024-07-03T10:55:10Z",
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14363
+            "stars": 14362
           }
         }
       ],
@@ -325,7 +325,7 @@
                 "last_commit": "2023-03-09T08:37:20Z",
                 "owner": "JiahuiYu",
                 "repo": "slimmable_networks",
-                "stars": 928
+                "stars": 929
               }
             }
           ]
@@ -516,7 +516,7 @@
             "last_commit": "2024-07-03T10:55:10Z",
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14363
+            "stars": 14362
           }
         },
         {
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:29:57.900Z",
+    "last_updated": "2026-08-15T15:54:56.714Z",
     "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
     "enhanced_repository": "enhansome/enhansome-Awesome-AutoML-and-Lightweight-Models",
