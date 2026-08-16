@@ -179,7 +179,7 @@
             "last_commit": "2026-08-13T21:48:08Z",
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39579
+            "stars": 39587
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2024-07-03T10:55:10Z",
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14362
+            "stars": 14363
           }
         }
       ],
@@ -516,7 +516,7 @@
             "last_commit": "2024-07-03T10:55:10Z",
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14362
+            "stars": 14363
           }
         },
         {
@@ -617,7 +617,7 @@
             "last_commit": "2021-05-08T13:40:11Z",
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10850
+            "stars": 10851
           }
         },
         {
@@ -659,7 +659,7 @@
             "last_commit": "2023-11-22T02:04:15Z",
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3142
+            "stars": 3138
           }
         }
       ],
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:54:56.714Z",
+    "last_updated": "2026-08-16T15:55:36.174Z",
     "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
     "enhanced_repository": "enhansome/enhansome-Awesome-AutoML-and-Lightweight-Models",
