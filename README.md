@@ -285,7 +285,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Overview of Bayesian Optimization](https://soubhikbarari.github.io/blog/2016/09/14/overview-of-bayesian-optimization)
 
 * [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
-  * [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) ⭐ 1,918 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-07-12 | \[Python]
+  * [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) ⭐ 1,917 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-07-12 | \[Python]
 
 ## 5.) Automated Feature Engineering
 
