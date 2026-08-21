@@ -132,7 +132,7 @@
                     "last_commit": "2021-01-03T02:21:40Z",
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3996
+                    "stars": 3997
                   }
                 },
                 {
@@ -247,10 +247,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-17T23:06:28Z",
+                    "last_commit": "2026-08-21T05:54:38Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77647
                   }
                 },
                 {
@@ -345,10 +345,10 @@
                 "archived": false,
                 "id": 143328315,
                 "language": "Makefile",
-                "last_commit": "2026-08-20T00:16:40Z",
+                "last_commit": "2026-08-21T03:24:05Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39617
+                "stars": 39620
               }
             },
             {
@@ -592,10 +592,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-17T23:06:28Z",
+                    "last_commit": "2026-08-21T05:54:38Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77647
                   }
                 }
               ]
@@ -777,10 +777,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-17T23:06:28Z",
+                    "last_commit": "2026-08-21T05:54:38Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77647
                   }
                 }
               ]
@@ -815,7 +815,7 @@
                     "last_commit": "2020-07-27T12:06:34Z",
                     "owner": "google-research",
                     "repo": "lottery-ticket-hypothesis",
-                    "stars": 731
+                    "stars": 729
                   }
                 }
               ]
@@ -997,7 +997,7 @@
                     "last_commit": "2022-09-22T05:24:53Z",
                     "owner": "LiYangHart",
                     "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                    "stars": 1340
+                    "stars": 1341
                   }
                 }
               ]
@@ -1036,7 +1036,7 @@
                 "last_commit": "2022-09-22T05:24:53Z",
                 "owner": "LiYangHart",
                 "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                "stars": 1340
+                "stars": 1341
               }
             },
             {
@@ -1158,7 +1158,7 @@
             "last_commit": "2024-06-11T16:51:05Z",
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4153
+            "stars": 4154
           }
         },
         {
@@ -1181,7 +1181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:03:49.776Z",
+    "last_updated": "2026-08-21T16:03:18.051Z",
     "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
     "original_repository_id": 163359611,
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
