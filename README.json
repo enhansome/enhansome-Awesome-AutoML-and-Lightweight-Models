@@ -247,10 +247,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T05:54:38Z",
+                    "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77647
+                    "stars": 77648
                   }
                 },
                 {
@@ -345,10 +345,10 @@
                 "archived": false,
                 "id": 143328315,
                 "language": "Makefile",
-                "last_commit": "2026-08-21T03:24:05Z",
+                "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39620
+                "stars": 39630
               }
             },
             {
@@ -396,7 +396,7 @@
                     "last_commit": "2022-04-08T12:30:25Z",
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8220
+                    "stars": 8221
                   }
                 },
                 {
@@ -592,10 +592,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T05:54:38Z",
+                    "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77647
+                    "stars": 77648
                   }
                 }
               ]
@@ -777,10 +777,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T05:54:38Z",
+                    "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77647
+                    "stars": 77648
                   }
                 }
               ]
@@ -1077,7 +1077,7 @@
             "last_commit": "2024-07-08T06:44:15Z",
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5078
+            "stars": 5079
           }
         },
         {
@@ -1092,7 +1092,7 @@
             "last_commit": "2024-03-02T15:10:25Z",
             "owner": "sksq96",
             "repo": "pytorch-summary",
-            "stars": 4054
+            "stars": 4053
           }
         },
         {
@@ -1158,7 +1158,7 @@
             "last_commit": "2024-06-11T16:51:05Z",
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4154
+            "stars": 4153
           }
         },
         {
@@ -1181,7 +1181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:03:18.051Z",
+    "last_updated": "2026-08-22T15:55:22.002Z",
     "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
     "original_repository_id": 163359611,
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
