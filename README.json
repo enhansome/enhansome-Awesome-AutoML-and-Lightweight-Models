@@ -250,7 +250,7 @@
                     "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77649
                   }
                 },
                 {
@@ -348,7 +348,7 @@
                 "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39630
+                "stars": 39635
               }
             },
             {
@@ -363,7 +363,7 @@
                 "last_commit": "2024-07-03T10:55:10Z",
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14363
+                "stars": 14362
               }
             }
           ],
@@ -595,7 +595,7 @@
                     "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77649
                   }
                 }
               ]
@@ -780,7 +780,7 @@
                     "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77649
                   }
                 }
               ]
@@ -1021,7 +1021,7 @@
                 "last_commit": "2024-07-03T10:55:10Z",
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14363
+                "stars": 14362
               }
             },
             {
@@ -1077,7 +1077,7 @@
             "last_commit": "2024-07-08T06:44:15Z",
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5079
+            "stars": 5078
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "last_commit": "2022-12-17T04:28:58Z",
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7503
+            "stars": 7502
           }
         },
         {
@@ -1173,7 +1173,7 @@
             "last_commit": "2023-11-22T02:04:15Z",
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3138
+            "stars": 3137
           }
         }
       ],
@@ -1181,7 +1181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:55:22.002Z",
+    "last_updated": "2026-08-23T15:56:14.036Z",
     "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
     "original_repository_id": 163359611,
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
