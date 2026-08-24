@@ -228,7 +228,7 @@
                     "last_commit": "2024-08-30T23:51:21Z",
                     "owner": "mit-han-lab",
                     "repo": "proxylessnas",
-                    "stars": 1446
+                    "stars": 1447
                   }
                 }
               ]
@@ -250,7 +250,7 @@
                     "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77649
+                    "stars": 77648
                   }
                 },
                 {
@@ -328,6 +328,65 @@
                   }
                 }
               ]
+            },
+            {
+              "node_type": "group",
+              "title": "Progressive Neural Architecture Search",
+              "description": "[ECCV 2018]",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "chenxi116/PNASNet.pytorch",
+                  "description": "[Pytorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 140200211,
+                    "language": "Python",
+                    "last_commit": "2022-08-04T20:12:17Z",
+                    "owner": "chenxi116",
+                    "repo": "PNASNet.pytorch",
+                    "stars": 321
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "titu1994/progressive-neural-architecture-search",
+                  "description": "[Keras, Tensorflow]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 118992971,
+                    "language": "Python",
+                    "last_commit": "2019-02-11T18:07:42Z",
+                    "owner": "titu1994",
+                    "repo": "progressive-neural-architecture-search",
+                    "stars": 118
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search",
+              "description": "[CVPR 2019]",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "lixincn2015/Partial-Order-Pruning",
+                  "description": "[Caffe]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 174256492,
+                    "language": "Cuda",
+                    "last_commit": "2020-09-23T09:03:00Z",
+                    "owner": "lixincn2015",
+                    "repo": "Partial-Order-Pruning",
+                    "stars": 147
+                  }
+                }
+              ]
             }
           ],
           "description": "Gradient:\nReinforcement Learning:\nEvolutionary Algorithm:\nSMBO:\nRandom Search:\nHypernetwork:\nBayesian Optimization:\nPartial Order Pruning\nKnowledge Distillation",
@@ -348,7 +407,7 @@
                 "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39635
+                "stars": 39640
               }
             },
             {
@@ -595,7 +654,7 @@
                     "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77649
+                    "stars": 77648
                   }
                 }
               ]
@@ -780,7 +839,7 @@
                     "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77649
+                    "stars": 77648
                   }
                 }
               ]
@@ -904,6 +963,28 @@
                     "owner": "jacobgil",
                     "repo": "pytorch-pruning",
                     "stars": 885
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Fast Algorithms for Convolutional Neural Networks",
+              "description": "[CVPR 2016]",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "andravin/wincnn",
+                  "description": "[Python]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62578789,
+                    "language": "Python",
+                    "last_commit": "2026-02-09T03:48:56Z",
+                    "owner": "andravin",
+                    "repo": "wincnn",
+                    "stars": 628
                   }
                 }
               ]
@@ -1058,6 +1139,35 @@
           "description": null,
           "node_type": "group",
           "title": "[Projects]"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Bayesian optimization",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "krasserm/bayesian-machine-learning",
+                  "description": "[Python]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 125869131,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-07-12T05:22:49Z",
+                    "owner": "krasserm",
+                    "repo": "bayesian-machine-learning",
+                    "stars": 1917
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "[Tutorials/Blogs]"
         }
       ],
       "title": "4.) Hyperparameter Optimization"
@@ -1143,7 +1253,7 @@
             "last_commit": "2022-12-17T04:28:58Z",
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7502
+            "stars": 7504
           }
         },
         {
@@ -1181,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:56:14.036Z",
+    "last_updated": "2026-08-24T14:16:44.462Z",
     "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
     "original_repository_id": 163359611,
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
