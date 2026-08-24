@@ -455,7 +455,7 @@
                     "last_commit": "2022-04-08T12:30:25Z",
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8221
+                    "stars": 8222
                   }
                 },
                 {
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:44.462Z",
+    "last_updated": "2026-08-24T16:15:03.224Z",
     "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
     "original_repository_id": 163359611,
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
