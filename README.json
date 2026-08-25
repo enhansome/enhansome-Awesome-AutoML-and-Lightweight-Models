@@ -407,7 +407,7 @@
                 "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39640
+                "stars": 39638
               }
             },
             {
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:15:03.224Z",
+    "last_updated": "2026-08-25T06:09:04.733Z",
     "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
     "original_repository_id": 163359611,
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",

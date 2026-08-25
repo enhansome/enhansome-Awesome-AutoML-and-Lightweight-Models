@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,640 | 🐛 2 | 🌐 Makefile | 📅 2026-08-21 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,638 | 🐛 2 | 🌐 Makefile | 📅 2026-08-21 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -309,4 +309,4 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
