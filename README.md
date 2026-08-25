@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,638 | 🐛 2 | 🌐 Makefile | 📅 2026-08-21 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,639 | 🐛 2 | 🌐 Makefile | 📅 2026-08-21 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -211,7 +211,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [yihui-he/channel-pruning](https://github.com/yihui-he/channel-pruning) ⭐ 1,088 | 🐛 21 | 🌐 Python | 📅 2024-05-02 | \[Caffe]
 
 * [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440) | \[**ICLR 2017**]
-  * [jacobgil/pytorch-pruning](https://github.com/jacobgil/pytorch-pruning) ⭐ 885 | 🐛 31 | 🌐 Python | 📅 2019-07-12 | \[Pytorch]
+  * [jacobgil/pytorch-pruning](https://github.com/jacobgil/pytorch-pruning) ⭐ 884 | 🐛 31 | 🌐 Python | 📅 2019-07-12 | \[Pytorch]
 
 * [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) | \[**ICLR 2017**]
 
@@ -301,9 +301,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## References
 
-* [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,848 | 🐛 17 | 📅 2021-05-08
+* [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,847 | 🐛 17 | 📅 2021-05-08
 * [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,504 | 🐛 7 | 📅 2022-12-17
-* [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,153 | 🐛 2 | 📅 2024-06-11
+* [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,154 | 🐛 2 | 📅 2024-06-11
 * [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning) ⭐ 3,137 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
 * [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
 
