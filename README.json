@@ -247,10 +247,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:27:30Z",
+                    "last_commit": "2026-08-25T21:25:59Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77652
                   }
                 },
                 {
@@ -407,7 +407,7 @@
                 "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39639
+                "stars": 39649
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2024-07-03T10:55:10Z",
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14362
+                "stars": 14361
               }
             }
           ],
@@ -651,10 +651,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:27:30Z",
+                    "last_commit": "2026-08-25T21:25:59Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77652
                   }
                 }
               ]
@@ -836,10 +836,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:27:30Z",
+                    "last_commit": "2026-08-25T21:25:59Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77652
                   }
                 }
               ]
@@ -1008,7 +1008,7 @@
                 "last_commit": "2023-03-31T22:23:33Z",
                 "owner": "Tencent",
                 "repo": "PocketFlow",
-                "stars": 2908
+                "stars": 2909
               }
             },
             {
@@ -1078,7 +1078,7 @@
                     "last_commit": "2022-09-22T05:24:53Z",
                     "owner": "LiYangHart",
                     "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                    "stars": 1341
+                    "stars": 1342
                   }
                 }
               ]
@@ -1102,7 +1102,7 @@
                 "last_commit": "2024-07-03T10:55:10Z",
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14362
+                "stars": 14361
               }
             },
             {
@@ -1117,7 +1117,7 @@
                 "last_commit": "2022-09-22T05:24:53Z",
                 "owner": "LiYangHart",
                 "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                "stars": 1341
+                "stars": 1342
               }
             },
             {
@@ -1253,7 +1253,7 @@
             "last_commit": "2022-12-17T04:28:58Z",
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7504
+            "stars": 7505
           }
         },
         {
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:17:41.695Z",
+    "last_updated": "2026-08-26T16:37:54.347Z",
     "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
     "original_repository_id": 163359611,
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
