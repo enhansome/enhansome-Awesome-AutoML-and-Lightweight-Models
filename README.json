@@ -247,10 +247,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-25T21:25:59Z",
+                    "last_commit": "2026-08-27T04:28:47Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77652
+                    "stars": 77653
                   }
                 },
                 {
@@ -407,7 +407,7 @@
                 "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39649
+                "stars": 39650
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2024-07-03T10:55:10Z",
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14361
+                "stars": 14360
               }
             }
           ],
@@ -492,7 +492,7 @@
                     "last_commit": "2019-06-23T01:31:09Z",
                     "owner": "kuan-wang",
                     "repo": "pytorch-mobilenet-v3",
-                    "stars": 806
+                    "stars": 807
                   }
                 },
                 {
@@ -651,10 +651,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-25T21:25:59Z",
+                    "last_commit": "2026-08-27T04:28:47Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77652
+                    "stars": 77653
                   }
                 }
               ]
@@ -836,10 +836,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-25T21:25:59Z",
+                    "last_commit": "2026-08-27T04:28:47Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77652
+                    "stars": 77653
                   }
                 }
               ]
@@ -1078,7 +1078,7 @@
                     "last_commit": "2022-09-22T05:24:53Z",
                     "owner": "LiYangHart",
                     "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                    "stars": 1342
+                    "stars": 1343
                   }
                 }
               ]
@@ -1102,7 +1102,7 @@
                 "last_commit": "2024-07-03T10:55:10Z",
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14361
+                "stars": 14360
               }
             },
             {
@@ -1117,7 +1117,7 @@
                 "last_commit": "2022-09-22T05:24:53Z",
                 "owner": "LiYangHart",
                 "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                "stars": 1342
+                "stars": 1343
               }
             },
             {
@@ -1217,7 +1217,7 @@
             "last_commit": "2025-08-20T17:23:29Z",
             "owner": "sovrasov",
             "repo": "flops-counter.pytorch",
-            "stars": 2981
+            "stars": 2982
           }
         }
       ],
@@ -1253,7 +1253,7 @@
             "last_commit": "2022-12-17T04:28:58Z",
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7505
+            "stars": 7506
           }
         },
         {
@@ -1291,9 +1291,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:37:54.347Z",
-    "original_repository": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
-    "original_repository_id": 163359611,
+    "last_updated": "2026-08-27T11:21:02.426Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 163359611,
+      "language": null,
+      "last_commit": "2021-06-19T07:06:34Z",
+      "owner": "guan-yuan",
+      "repo": "Awesome-AutoML-and-Lightweight-Models",
+      "stars": 855
+    },
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
     "enhanced_repository": "enhansome/enhansome-Awesome-AutoML-and-Lightweight-Models",
     "enhanced_repository_description": null,
