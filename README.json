@@ -17,12 +17,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2020] When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks",
+                    "homepage": "http://www.mit.edu/~yuzhe/robnets.html",
                     "id": 245825023,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-10-21T02:52:21Z",
+                    "open_issues": 10,
                     "owner": "gmh14",
                     "repo": "RobNets",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": [
+                      "adversarial-attacks",
+                      "adversarial-examples",
+                      "deep-learning-architectures",
+                      "neural-architecture-search",
+                      "robustness"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -40,12 +51,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automated deep learning algorithms implemented in PyTorch.",
+                    "homepage": null,
                     "id": 168538768,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-04-24T22:18:16Z",
+                    "open_issues": 15,
                     "owner": "D-X-Y",
                     "repo": "AutoDL-Projects",
-                    "stars": 1581
+                    "stars": 1581,
+                    "topics": [
+                      "autodl",
+                      "automl",
+                      "nas",
+                      "neural-architecture-search",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -63,12 +85,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours",
+                    "homepage": "https://arxiv.org/abs/1904.02877",
                     "id": 178452827,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-12-14T08:08:59Z",
+                    "open_issues": 16,
                     "owner": "enyac-group",
                     "repo": "single-path-nas",
-                    "stars": 394
+                    "stars": 394,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -86,12 +113,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of soft parameter sharing for neural networks",
+                    "homepage": null,
                     "id": 172004570,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-12-15T03:30:10Z",
+                    "open_issues": 2,
                     "owner": "lolemacs",
                     "repo": "soft-sharing",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -109,12 +141,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neural Architecture Optimization",
+                    "homepage": null,
                     "id": 154782689,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-01-11T06:26:01Z",
+                    "open_issues": 11,
                     "owner": "renqianluo",
                     "repo": "NAO",
-                    "stars": 285
+                    "stars": 285,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -132,12 +169,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Differentiable architecture search for convolutional and recurrent networks",
+                    "homepage": "https://arxiv.org/abs/1806.09055",
                     "id": 138547383,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-01-03T02:21:40Z",
+                    "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3998
+                    "stars": 3998,
+                    "topics": [
+                      "automl",
+                      "convolutional-networks",
+                      "deep-learning",
+                      "image-classification",
+                      "language-modeling",
+                      "neural-architecture-search",
+                      "pytorch",
+                      "recurrent-networks"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -148,12 +199,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch Implementation of DARTS: Differentiable Architecture Search",
+                    "homepage": null,
                     "id": 155827645,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-19T22:16:10Z",
+                    "open_issues": 33,
                     "owner": "khanrc",
                     "repo": "pt.darts",
-                    "stars": 452
+                    "stars": 452,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -164,12 +220,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch 1.0 supported for CNN exp.",
+                    "homepage": null,
                     "id": 162575586,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-03-01T00:50:37Z",
+                    "open_issues": 4,
                     "owner": "dragen1860",
                     "repo": "DARTS-PyTorch",
-                    "stars": 80
+                    "stars": 80,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -187,12 +248,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast, Accurate and Lightweight Super-Resolution models",
+                    "homepage": null,
                     "id": 166790842,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-21T22:27:01Z",
+                    "open_issues": 6,
                     "owner": "xiaomi-automl",
                     "repo": "FALSR",
-                    "stars": 681
+                    "stars": 681,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -210,12 +276,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "models for MoreMNAS",
+                    "homepage": null,
                     "id": 165637730,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-07-06T12:50:12Z",
+                    "open_issues": 0,
                     "owner": "xiaomi-automl",
                     "repo": "MoreMNAS",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -233,12 +304,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2019] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware",
+                    "homepage": "https://hanlab.mit.edu/projects/proxylessNAS/",
                     "id": 159995467,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2024-08-30T23:51:21Z",
+                    "open_issues": 2,
                     "owner": "mit-han-lab",
                     "repo": "proxylessnas",
-                    "stars": 1447
+                    "stars": 1447,
+                    "topics": [
+                      "acceleration",
+                      "automl",
+                      "efficient-model",
+                      "hardware-aware",
+                      "on-device-ai",
+                      "specialization"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -256,12 +339,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Models and examples built with TensorFlow",
+                    "homepage": null,
                     "id": 51117837,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T18:30:48Z",
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659
+                    "stars": 77658,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -272,12 +360,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A neat pytorch implementation of nasnet and the ported weights from tensorflow",
+                    "homepage": null,
                     "id": 126015382,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-12-05T08:57:54Z",
+                    "open_issues": 2,
                     "owner": "wandering007",
                     "repo": "nasnet-pytorch",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": [
+                      "nasnet",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -295,12 +391,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A PyTorch implementation of Mnasnet: MnasNet: Platform-Aware Neural Architecture Search for Mobile.",
+                    "homepage": null,
                     "id": 143511465,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-08-15T07:57:08Z",
+                    "open_issues": 4,
                     "owner": "AnjieCheng",
                     "repo": "MnasNet-PyTorch",
-                    "stars": 275
+                    "stars": 275,
+                    "topics": [
+                      "architecture-search",
+                      "mnasnet",
+                      "mobilenetv2",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -318,12 +424,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch implementation of \"Efficient Neural Architecture Search via Parameters Sharing\"",
+                    "homepage": null,
                     "id": 121592531,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-07-06T21:33:33Z",
+                    "open_issues": 40,
                     "owner": "carpedm20",
                     "repo": "ENAS-pytorch",
-                    "stars": 2719
+                    "stars": 2719,
+                    "topics": [
+                      "google-brain",
+                      "neural-architecture-search",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -334,12 +449,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow Code for paper \"Efficient Neural Architecture Search via Parameter Sharing\"",
+                    "homepage": "https://arxiv.org/abs/1802.03268",
                     "id": 122676880,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-06-18T14:02:10Z",
+                    "open_issues": 84,
                     "owner": "melodyguan",
                     "repo": "enas",
-                    "stars": 1578
+                    "stars": 1578,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -357,12 +477,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch implementation of PNASNet-5 on ImageNet",
+                    "homepage": null,
                     "id": 140200211,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-08-04T20:12:17Z",
+                    "open_issues": 3,
                     "owner": "chenxi116",
                     "repo": "PNASNet.pytorch",
-                    "stars": 321
+                    "stars": 321,
+                    "topics": [
+                      "automl",
+                      "deep-learning",
+                      "imagenet",
+                      "neural-architecture-search",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -373,12 +504,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of Progressive Neural Architecture Search in Keras and Tensorflow",
+                    "homepage": null,
                     "id": 118992971,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-02-11T18:07:42Z",
+                    "open_issues": 1,
                     "owner": "titu1994",
                     "repo": "progressive-neural-architecture-search",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -396,12 +532,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Partial Order Pruning: for  Best Speed/Accuracy Trade-off in Neural Architecture Search",
+                    "homepage": null,
                     "id": 174256492,
                     "language": "Cuda",
+                    "license": null,
                     "last_commit": "2020-09-23T09:03:00Z",
+                    "open_issues": 1,
                     "owner": "lixincn2015",
                     "repo": "Partial-Order-Pruning",
-                    "stars": 147
+                    "stars": 147,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -421,12 +562,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The unified workspace where open-source models get things done for you.",
+                "homepage": "https://mindshub.ai",
                 "id": 143328315,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2026-08-21T23:50:38Z",
+                "open_issues": 2,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39656
+                "stars": 39656,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "anton",
+                  "artificial-inteligence",
+                  "claude",
+                  "claude-cowork",
+                  "codex",
+                  "cowork",
+                  "deepseek",
+                  "glm",
+                  "hermes",
+                  "hermes-agent",
+                  "kimi",
+                  "mcp",
+                  "mindsdb"
+                ]
               },
               "first_seen": "2026-08-29T00:06:00.244Z"
             },
@@ -437,12 +599,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+                "homepage": "https://nni.readthedocs.io",
                 "id": 135673451,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-03T10:55:10Z",
+                "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14360
+                "stars": 14361,
+                "topics": [
+                  "automated-machine-learning",
+                  "automl",
+                  "bayesian-optimization",
+                  "data-science",
+                  "deep-learning",
+                  "deep-neural-network",
+                  "distributed",
+                  "feature-engineering",
+                  "hyperparameter-optimization",
+                  "hyperparameter-tuning",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "mlops",
+                  "model-compression",
+                  "nas",
+                  "neural-architecture-search",
+                  "neural-network",
+                  "python",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T00:06:00.244Z"
             }
@@ -471,12 +659,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A PyTorch implementation of EfficientNet",
+                    "homepage": null,
                     "id": 189350661,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-04-08T12:30:25Z",
+                    "open_issues": 167,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8222
+                    "stars": 8222,
+                    "topics": [
+                      "efficientnet-pytorch",
+                      "feature-extraction",
+                      "imagenet",
+                      "pretrained-models"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -487,12 +685,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reference models and tools for Cloud TPUs.",
+                    "homepage": "https://cloud.google.com/tpu/",
                     "id": 96946693,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-22T19:40:55Z",
+                    "open_issues": 319,
                     "owner": "tensorflow",
                     "repo": "tpu",
-                    "stars": 5278
+                    "stars": 5278,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -510,12 +713,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MobileNetV3 in pytorch and ImageNet pretrained models",
+                    "homepage": null,
                     "id": 185657873,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-06-23T01:31:09Z",
+                    "open_issues": 9,
                     "owner": "kuan-wang",
                     "repo": "pytorch-mobilenet-v3",
-                    "stars": 807
+                    "stars": 807,
+                    "topics": [
+                      "classification",
+                      "imagenet",
+                      "mobilenet",
+                      "mobilenetv2",
+                      "mobilenetv3",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -526,12 +741,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementing Searching for MobileNetV3 paper using Pytorch",
+                    "homepage": null,
                     "id": 185542801,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-07-04T00:41:50Z",
+                    "open_issues": 7,
                     "owner": "leaderj1001",
                     "repo": "MobileNetV3-Pytorch",
-                    "stars": 299
+                    "stars": 299,
+                    "topics": [
+                      "cifar-10",
+                      "cifar-100",
+                      "imagenet",
+                      "mobilenetv3",
+                      "pytorch",
+                      "searching-for-mobilenetv3"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -549,12 +776,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CGNet: A Light-weight Context Guided Network for Semantic Segmentation [IEEE Transactions on Image Processing 2020]",
+                    "homepage": null,
                     "id": 149440472,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-02-16T22:10:28Z",
+                    "open_issues": 7,
                     "owner": "wutianyiRosun",
                     "repo": "CGNet",
-                    "stars": 278
+                    "stars": 278,
+                    "topics": [
+                      "camvid",
+                      "cityscapes",
+                      "pytorch",
+                      "semantic-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -572,12 +809,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A light-weight, power efficient, and general purpose convolutional neural network",
+                    "homepage": null,
                     "id": 158426519,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-01-29T00:27:38Z",
+                    "open_issues": 2,
                     "owner": "sacmehta",
                     "repo": "ESPNetv2",
-                    "stars": 455
+                    "stars": 455,
+                    "topics": [
+                      "cnn",
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "efficient",
+                      "imagenet",
+                      "lightweight",
+                      "machine-learning",
+                      "pytorch",
+                      "semantic-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -595,12 +847,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation",
+                    "homepage": "https://sacmehta.github.io/ESPNet/",
                     "id": 121903519,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-06-30T08:57:36Z",
+                    "open_issues": 9,
                     "owner": "sacmehta",
                     "repo": "ESPNet",
-                    "stars": 542
+                    "stars": 542,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "edge-devices",
+                      "real-time",
+                      "semantic-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -618,12 +880,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.",
+                    "homepage": null,
                     "id": 165027131,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-03-11T09:55:12Z",
+                    "open_issues": 41,
                     "owner": "yu-changqian",
                     "repo": "TorchSeg",
-                    "stars": 1410
+                    "stars": 1410,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -634,12 +901,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "BiSeNet based on pytorch",
+                    "homepage": null,
                     "id": 158343498,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-03-13T08:40:57Z",
+                    "open_issues": 23,
                     "owner": "ooooverflow",
                     "repo": "BiSeNet",
-                    "stars": 409
+                    "stars": 410,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -657,12 +929,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch code for semantic segmentation using ERFNet",
+                    "homepage": null,
                     "id": 104142994,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-12-05T10:20:15Z",
+                    "open_issues": 14,
                     "owner": "Eromera",
                     "repo": "erfnet_pytorch",
-                    "stars": 445
+                    "stars": 445,
+                    "topics": [
+                      "cityscapes",
+                      "erfnet",
+                      "pytorch",
+                      "segmentation",
+                      "semantic",
+                      "semantic-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -680,12 +964,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Models and examples built with TensorFlow",
+                    "homepage": null,
                     "id": 51117837,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T18:30:48Z",
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659
+                    "stars": 77658,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -703,12 +992,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usage",
+                    "homepage": null,
                     "id": 138247502,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-06-07T15:37:46Z",
+                    "open_issues": 20,
                     "owner": "lyxok1",
                     "repo": "Tiny-DSOD",
-                    "stars": 231
+                    "stars": 231,
+                    "topics": [
+                      "deep-learning",
+                      "lightweight",
+                      "object-detection"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -726,12 +1024,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pelee: A Real-Time Object Detection System on Mobile Devices",
+                    "homepage": null,
                     "id": 117862554,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-01-04T05:52:11Z",
+                    "open_issues": 54,
                     "owner": "Robert-JunWang",
                     "repo": "Pelee",
-                    "stars": 884
+                    "stars": 884,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -742,12 +1045,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PeleeNet: An efficient DenseNet architecture for mobile devices",
+                    "homepage": null,
                     "id": 126496555,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-02-26T02:53:18Z",
+                    "open_issues": 8,
                     "owner": "Robert-JunWang",
                     "repo": "PeleeNet",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": [
+                      "deep-learning",
+                      "densenet",
+                      "efficient-algorithm",
+                      "mobile-devices"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -765,12 +1078,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Receptive Field Block Net for Accurate and Fast Object Detection, ECCV 2018",
+                    "homepage": null,
                     "id": 111989231,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-11-02T18:19:57Z",
+                    "open_issues": 58,
                     "owner": "GOATmessi8",
                     "repo": "RFBNet",
-                    "stars": 1419
+                    "stars": 1419,
+                    "topics": [
+                      "detection",
+                      "mobilenet",
+                      "pytorch",
+                      "rfbnet"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -781,12 +1104,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "pytorch version of SSD and it's enhanced methods such as RFBSSD,FSSD and RefineDet",
+                    "homepage": null,
                     "id": 114252768,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-03-27T10:35:05Z",
+                    "open_issues": 44,
                     "owner": "lzx1413",
                     "repo": "PytorchSSD",
-                    "stars": 704
+                    "stars": 704,
+                    "topics": [
+                      "fssd",
+                      "pytorch",
+                      "refinedet",
+                      "rfb",
+                      "ssd"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -797,12 +1131,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for Single Shot MultiBox Detector and its variants, implemented with pytorch, python3.",
+                    "homepage": null,
                     "id": 119862040,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-08-18T00:49:25Z",
+                    "open_issues": 40,
                     "owner": "ShuangXieIrene",
                     "repo": "ssds.pytorch",
-                    "stars": 566
+                    "stars": 566,
+                    "topics": [
+                      "darknet",
+                      "fssd",
+                      "mobilenet",
+                      "pytorch",
+                      "rfb",
+                      "ssd",
+                      "vgg",
+                      "yolo"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -820,12 +1168,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "pytorch version of SSD and it's enhanced methods such as RFBSSD,FSSD and RefineDet",
+                    "homepage": null,
                     "id": 114252768,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-03-27T10:35:05Z",
+                    "open_issues": 44,
                     "owner": "lzx1413",
                     "repo": "PytorchSSD",
-                    "stars": 704
+                    "stars": 704,
+                    "topics": [
+                      "fssd",
+                      "pytorch",
+                      "refinedet",
+                      "rfb",
+                      "ssd"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -836,12 +1195,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for Single Shot MultiBox Detector and its variants, implemented with pytorch, python3.",
+                    "homepage": null,
                     "id": 119862040,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-08-18T00:49:25Z",
+                    "open_issues": 40,
                     "owner": "ShuangXieIrene",
                     "repo": "ssds.pytorch",
-                    "stars": 566
+                    "stars": 566,
+                    "topics": [
+                      "darknet",
+                      "fssd",
+                      "mobilenet",
+                      "pytorch",
+                      "rfb",
+                      "ssd",
+                      "vgg",
+                      "yolo"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 },
@@ -852,12 +1225,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch re-implementation of Fssd",
+                    "homepage": null,
                     "id": 161009814,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-03-19T07:11:40Z",
+                    "open_issues": 9,
                     "owner": "dlyldxwl",
                     "repo": "fssd.pytorch",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -875,12 +1253,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Models and examples built with TensorFlow",
+                    "homepage": null,
                     "id": 51117837,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T18:30:48Z",
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659
+                    "stars": 77658,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -911,12 +1294,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A reimplementation of \"The Lottery Ticket Hypothesis\" (Frankle and Carbin) on MNIST.",
+                    "homepage": "https://arxiv.org/abs/1803.03635",
                     "id": 155907788,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-07-27T12:06:34Z",
+                    "open_issues": 13,
                     "owner": "google-research",
                     "repo": "lottery-ticket-hypothesis",
-                    "stars": 729
+                    "stars": 729,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -934,12 +1322,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Slimmable Networks, AutoSlim, and Beyond, ICLR 2019, and ICCV 2019",
+                    "homepage": null,
                     "id": 158487526,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-03-09T08:37:20Z",
+                    "open_issues": 13,
                     "owner": "JiahuiYu",
                     "repo": "slimmable_networks",
-                    "stars": 929
+                    "stars": 929,
+                    "topics": [
+                      "adaptive",
+                      "automated",
+                      "edge-devices",
+                      "efficient",
+                      "neural-architecture-search",
+                      "on-demand",
+                      "slimmable-networks"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -957,12 +1358,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Learning Efficient Convolutional Networks through Network Slimming, In ICCV 2017.",
+                    "homepage": null,
                     "id": 117320702,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-05-13T09:04:47Z",
+                    "open_issues": 16,
                     "owner": "foolwood",
                     "repo": "pytorch-slimming",
-                    "stars": 573
+                    "stars": 573,
+                    "topics": [
+                      "deep-learning",
+                      "fast-inference",
+                      "l1-regularization",
+                      "pytorch",
+                      "weight-pruning"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -980,12 +1392,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Channel Pruning for Accelerating Very Deep Neural Networks (ICCV'17)",
+                    "homepage": "https://arxiv.org/abs/1707.06168",
                     "id": 100935205,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-02T06:37:43Z",
+                    "open_issues": 21,
                     "owner": "ethanhe42",
                     "repo": "channel-pruning",
-                    "stars": 1088
+                    "stars": 1088,
+                    "topics": [
+                      "acceleration",
+                      "channel-pruning",
+                      "deep-neural-networks",
+                      "image-classification",
+                      "image-recognition",
+                      "model-compression",
+                      "object-detection"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -1003,12 +1428,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch Implementation of [1611.06440] Pruning Convolutional Neural Networks for Resource Efficient Inference",
+                    "homepage": null,
                     "id": 95215079,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-07-12T20:39:41Z",
+                    "open_issues": 31,
                     "owner": "jacobgil",
                     "repo": "pytorch-pruning",
-                    "stars": 884
+                    "stars": 884,
+                    "topics": [
+                      "deep-learning",
+                      "pruning",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -1026,12 +1460,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Winograd minimal convolution algorithm generator for convolutional neural networks.",
+                    "homepage": null,
                     "id": 62578789,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-09T03:48:56Z",
+                    "open_issues": 6,
                     "owner": "andravin",
                     "repo": "wincnn",
-                    "stars": 628
+                    "stars": 628,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -1051,12 +1490,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.",
+                "homepage": "https://pocketflow.github.io",
                 "id": 155518202,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-31T22:23:33Z",
+                "open_issues": 75,
                 "owner": "Tencent",
                 "repo": "PocketFlow",
-                "stars": 2909
+                "stars": 2909,
+                "topics": [
+                  "automl",
+                  "computer-vision",
+                  "deep-learning",
+                  "mobile-app",
+                  "model-compression"
+                ]
               },
               "first_seen": "2026-08-29T00:06:00.244Z"
             },
@@ -1067,12 +1517,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)",
+                "homepage": null,
                 "id": 89674440,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-22T04:06:41Z",
+                "open_issues": 11,
                 "owner": "aaron-xichen",
                 "repo": "pytorch-playground",
-                "stars": 2716
+                "stars": 2716,
+                "topics": [
+                  "pytorch",
+                  "pytorch-tutorial",
+                  "pytorch-tutorials",
+                  "quantization"
+                ]
               },
               "first_seen": "2026-08-29T00:06:00.244Z"
             }
@@ -1101,12 +1561,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open source python library for scalable Bayesian optimisation.",
+                    "homepage": null,
                     "id": 130418835,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-06-19T20:23:17Z",
+                    "open_issues": 43,
                     "owner": "dragonfly",
                     "repo": "dragonfly",
-                    "stars": 893
+                    "stars": 893,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -1124,12 +1589,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear)",
+                    "homepage": null,
                     "id": 281841206,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-09-22T05:24:53Z",
+                    "open_issues": 0,
                     "owner": "LiYangHart",
                     "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                    "stars": 1342
+                    "stars": 1342,
+                    "topics": [
+                      "artificial-neural-networks",
+                      "automated-machine-learning",
+                      "automl",
+                      "bayesian-optimization",
+                      "deep-learning",
+                      "genetic-algorithm",
+                      "grid-search",
+                      "hpo",
+                      "hyperparameter-optimization",
+                      "hyperparameter-tuning",
+                      "machine-learning",
+                      "machine-learning-algorithms",
+                      "machine-learning-optimization",
+                      "optimization",
+                      "particle-swarm-optimization",
+                      "python-examples",
+                      "python-samples",
+                      "random-forest",
+                      "random-search",
+                      "tuning-parameters"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -1149,12 +1640,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+                "homepage": "https://nni.readthedocs.io",
                 "id": 135673451,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-03T10:55:10Z",
+                "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14360
+                "stars": 14361,
+                "topics": [
+                  "automated-machine-learning",
+                  "automl",
+                  "bayesian-optimization",
+                  "data-science",
+                  "deep-learning",
+                  "deep-neural-network",
+                  "distributed",
+                  "feature-engineering",
+                  "hyperparameter-optimization",
+                  "hyperparameter-tuning",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "mlops",
+                  "model-compression",
+                  "nas",
+                  "neural-architecture-search",
+                  "neural-network",
+                  "python",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T00:06:00.244Z"
             },
@@ -1165,12 +1682,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear)",
+                "homepage": null,
                 "id": 281841206,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-09-22T05:24:53Z",
+                "open_issues": 0,
                 "owner": "LiYangHart",
                 "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                "stars": 1342
+                "stars": 1342,
+                "topics": [
+                  "artificial-neural-networks",
+                  "automated-machine-learning",
+                  "automl",
+                  "bayesian-optimization",
+                  "deep-learning",
+                  "genetic-algorithm",
+                  "grid-search",
+                  "hpo",
+                  "hyperparameter-optimization",
+                  "hyperparameter-tuning",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "machine-learning-optimization",
+                  "optimization",
+                  "particle-swarm-optimization",
+                  "python-examples",
+                  "python-samples",
+                  "random-forest",
+                  "random-search",
+                  "tuning-parameters"
+                ]
               },
               "first_seen": "2026-08-29T00:06:00.244Z"
             },
@@ -1181,12 +1724,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source python library for scalable Bayesian optimisation.",
+                "homepage": null,
                 "id": 130418835,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-19T20:23:17Z",
+                "open_issues": 43,
                 "owner": "dragonfly",
                 "repo": "dragonfly",
-                "stars": 893
+                "stars": 893,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:06:00.244Z"
             }
@@ -1209,12 +1757,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Notebooks about Bayesian methods for machine learning",
+                    "homepage": null,
                     "id": 125869131,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-12T05:22:49Z",
+                    "open_issues": 5,
                     "owner": "krasserm",
                     "repo": "bayesian-machine-learning",
-                    "stars": 1917
+                    "stars": 1917,
+                    "topics": [
+                      "bayesian-machine-learning",
+                      "bayesian-methods",
+                      "bayesian-optimization",
+                      "gaussian-processes",
+                      "machine-learning",
+                      "variational-autoencoder"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
                 }
@@ -1238,12 +1798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Count the MACs / FLOPs of your PyTorch model.",
+            "homepage": null,
             "id": 119014048,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-08T06:44:15Z",
+            "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5078
+            "stars": 5077,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
         },
@@ -1254,12 +1819,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model summary in PyTorch similar to `model.summary()` in Keras",
+            "homepage": null,
             "id": 130704865,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-02T15:10:25Z",
+            "open_issues": 141,
             "owner": "sksq96",
             "repo": "pytorch-summary",
-            "stars": 4053
+            "stars": 4053,
+            "topics": [
+              "deep-learning",
+              "keras",
+              "pytorch",
+              "summary"
+            ]
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
         },
@@ -1270,12 +1845,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flops counter for neural networks in pytorch framework",
+            "homepage": null,
             "id": 145103892,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-20T17:23:29Z",
+            "open_issues": 29,
             "owner": "sovrasov",
             "repo": "flops-counter.pytorch",
-            "stars": 2982
+            "stars": 2982,
+            "topics": [
+              "deep-neural-networks",
+              "deeplearning",
+              "flops-counter",
+              "pytorch",
+              "pytorch-cnn",
+              "pytorch-utils",
+              "transformer",
+              "transformer-models"
+            ]
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
         }
@@ -1292,12 +1881,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":metal: awesome-semantic-segmentation",
+            "homepage": null,
             "id": 43595048,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-08T13:40:11Z",
+            "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10847
+            "stars": 10847,
+            "topics": [
+              "benchmark",
+              "deeplearning",
+              "evaluation",
+              "semantic-segmentation"
+            ]
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
         },
@@ -1308,12 +1907,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
+            "homepage": null,
             "id": 128416044,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-17T04:28:58Z",
+            "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7506
+            "stars": 7506,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "detection",
+              "object-detection",
+              "object-localisation"
+            ]
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
         },
@@ -1324,12 +1934,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
+            "homepage": null,
             "id": 111381431,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-06-11T16:51:05Z",
+            "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4154
+            "stars": 4154,
+            "topics": [
+              "automated-feature-engineering",
+              "automl",
+              "hyperparameter-optimization",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
         },
@@ -1340,12 +1960,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://handong1587.github.io",
             "id": 40752536,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-11-22T02:04:15Z",
+            "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3137
+            "stars": 3137,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
         }
@@ -1354,15 +1984,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:06:00.244Z",
+    "last_updated": "2026-08-29T04:37:19.433Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
+      "homepage": null,
       "id": 163359611,
       "language": null,
+      "license": null,
       "last_commit": "2021-06-19T07:06:34Z",
+      "open_issues": 1,
       "owner": "guan-yuan",
       "repo": "Awesome-AutoML-and-Lightweight-Models",
-      "stars": 855
+      "stars": 855,
+      "topics": [
+        "architecture-search",
+        "automated-feature-engineering",
+        "automl",
+        "awesome-list",
+        "hyperparameter-optimization",
+        "meta-learning",
+        "model-acceleration",
+        "model-compression",
+        "nas",
+        "neural-architecture-search",
+        "pytorch",
+        "quantization",
+        "quantized-neural-network",
+        "quantized-training",
+        "tensorflow"
+      ]
     },
     "original_repository_sha": "2336df3fa4332eeaabcf22be680f3c76ee2ee8ec",
     "enhanced_repository": "enhansome/enhansome-Awesome-AutoML-and-Lightweight-Models",
