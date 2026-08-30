@@ -571,7 +571,7 @@
                 "open_issues": 3,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39661,
+                "stars": 39663,
                 "topics": [
                   "agents",
                   "ai",
@@ -694,7 +694,7 @@
                     "open_issues": 319,
                     "owner": "tensorflow",
                     "repo": "tpu",
-                    "stars": 5278,
+                    "stars": 5279,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:50:53.212Z",
+    "last_updated": "2026-08-30T18:48:24.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
