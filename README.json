@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3998,
+                    "stars": 3997,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -208,7 +208,7 @@
                     "open_issues": 33,
                     "owner": "khanrc",
                     "repo": "pt.darts",
-                    "stars": 452,
+                    "stars": 451,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -348,7 +348,7 @@
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 3,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39663,
+                "stars": 39670,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14361,
+                "stars": 14360,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -668,7 +668,7 @@
                     "open_issues": 167,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8221,
+                    "stars": 8220,
                     "topics": [
                       "efficientnet-pytorch",
                       "feature-extraction",
@@ -694,7 +694,7 @@
                     "open_issues": 319,
                     "owner": "tensorflow",
                     "repo": "tpu",
-                    "stars": 5279,
+                    "stars": 5278,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -973,7 +973,7 @@
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1526,7 +1526,7 @@
                 "open_issues": 11,
                 "owner": "aaron-xichen",
                 "repo": "pytorch-playground",
-                "stars": 2716,
+                "stars": 2717,
                 "topics": [
                   "pytorch",
                   "pytorch-tutorial",
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14361,
+                "stars": 14360,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1943,7 +1943,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4154,
+            "stars": 4155,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:48:24.083Z",
+    "last_updated": "2026-08-31T21:05:03.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
