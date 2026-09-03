@@ -345,10 +345,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-02T18:30:36Z",
-                    "open_issues": 1273,
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 5,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39684,
+                "stars": 39689,
                 "topics": [
                   "agents",
                   "ai",
@@ -694,7 +694,7 @@
                     "open_issues": 319,
                     "owner": "tensorflow",
                     "repo": "tpu",
-                    "stars": 5279,
+                    "stars": 5277,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -970,10 +970,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-02T18:30:36Z",
-                    "open_issues": 1273,
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1259,10 +1259,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-02T18:30:36Z",
-                    "open_issues": 1273,
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1570,7 +1570,7 @@
                     "open_issues": 43,
                     "owner": "dragonfly",
                     "repo": "dragonfly",
-                    "stars": 893,
+                    "stars": 894,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1733,7 +1733,7 @@
                 "open_issues": 43,
                 "owner": "dragonfly",
                 "repo": "dragonfly",
-                "stars": 893,
+                "stars": 894,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5076,
+            "stars": 5075,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1828,7 +1828,7 @@
             "open_issues": 141,
             "owner": "sksq96",
             "repo": "pytorch-summary",
-            "stars": 4053,
+            "stars": 4052,
             "topics": [
               "deep-learning",
               "keras",
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10848,
+            "stars": 10846,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:56:36.662Z",
+    "last_updated": "2026-09-03T18:51:56.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
