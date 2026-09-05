@@ -344,7 +344,7 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-03T23:11:37Z",
+                    "last_commit": "2026-09-05T00:14:58Z",
                     "open_issues": 1273,
                     "owner": "tensorflow",
                     "repo": "models",
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39694,
+                "stars": 39698,
                 "topics": [
                   "agents",
                   "ai",
@@ -969,7 +969,7 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-03T23:11:37Z",
+                    "last_commit": "2026-09-05T00:14:58Z",
                     "open_issues": 1273,
                     "owner": "tensorflow",
                     "repo": "models",
@@ -1258,7 +1258,7 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-03T23:11:37Z",
+                    "last_commit": "2026-09-05T00:14:58Z",
                     "open_issues": 1273,
                     "owner": "tensorflow",
                     "repo": "models",
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5075,
+            "stars": 5076,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1854,7 +1854,7 @@
             "open_issues": 29,
             "owner": "sovrasov",
             "repo": "flops-counter.pytorch",
-            "stars": 2982,
+            "stars": 2981,
             "topics": [
               "deep-neural-networks",
               "deeplearning",
@@ -1943,7 +1943,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4156,
+            "stars": 4155,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:33:12.691Z",
+    "last_updated": "2026-09-05T17:37:47.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
