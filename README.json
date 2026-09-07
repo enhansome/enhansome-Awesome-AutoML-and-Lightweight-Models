@@ -60,7 +60,7 @@
                     "open_issues": 15,
                     "owner": "D-X-Y",
                     "repo": "AutoDL-Projects",
-                    "stars": 1581,
+                    "stars": 1582,
                     "topics": [
                       "autodl",
                       "automl",
@@ -568,10 +568,10 @@
                 "language": "Makefile",
                 "license": "MIT",
                 "last_commit": "2026-09-04T13:26:56Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39701,
+                "stars": 39706,
                 "topics": [
                   "agents",
                   "ai",
@@ -668,7 +668,7 @@
                     "open_issues": 167,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8220,
+                    "stars": 8219,
                     "topics": [
                       "efficientnet-pytorch",
                       "feature-extraction",
@@ -691,7 +691,7 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-22T19:40:55Z",
-                    "open_issues": 319,
+                    "open_issues": 320,
                     "owner": "tensorflow",
                     "repo": "tpu",
                     "stars": 5277,
@@ -910,7 +910,7 @@
                     "open_issues": 23,
                     "owner": "ooooverflow",
                     "repo": "BiSeNet",
-                    "stars": 410,
+                    "stars": 409,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5077,
+            "stars": 5078,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1854,7 +1854,7 @@
             "open_issues": 29,
             "owner": "sovrasov",
             "repo": "flops-counter.pytorch",
-            "stars": 2981,
+            "stars": 2982,
             "topics": [
               "deep-neural-networks",
               "deeplearning",
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10846,
+            "stars": 10847,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7506,
+            "stars": 7505,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1943,7 +1943,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4155,
+            "stars": 4156,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:41:11.374Z",
+    "last_updated": "2026-09-07T19:22:48.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
