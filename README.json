@@ -345,10 +345,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-05T00:14:58Z",
-                    "open_issues": 1273,
+                    "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77660,
+                    "stars": 77656,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -433,7 +433,7 @@
                     "open_issues": 40,
                     "owner": "carpedm20",
                     "repo": "ENAS-pytorch",
-                    "stars": 2719,
+                    "stars": 2718,
                     "topics": [
                       "google-brain",
                       "neural-architecture-search",
@@ -568,10 +568,10 @@
                 "language": "Makefile",
                 "license": "MIT",
                 "last_commit": "2026-09-04T13:26:56Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39706,
+                "stars": 39715,
                 "topics": [
                   "agents",
                   "ai",
@@ -668,7 +668,7 @@
                     "open_issues": 167,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8219,
+                    "stars": 8217,
                     "topics": [
                       "efficientnet-pytorch",
                       "feature-extraction",
@@ -694,7 +694,7 @@
                     "open_issues": 320,
                     "owner": "tensorflow",
                     "repo": "tpu",
-                    "stars": 5277,
+                    "stars": 5276,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -889,7 +889,7 @@
                     "open_issues": 41,
                     "owner": "yu-changqian",
                     "repo": "TorchSeg",
-                    "stars": 1410,
+                    "stars": 1409,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -970,10 +970,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-05T00:14:58Z",
-                    "open_issues": 1273,
+                    "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77660,
+                    "stars": 77656,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1087,7 +1087,7 @@
                     "open_issues": 58,
                     "owner": "GOATmessi8",
                     "repo": "RFBNet",
-                    "stars": 1419,
+                    "stars": 1418,
                     "topics": [
                       "detection",
                       "mobilenet",
@@ -1259,10 +1259,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-05T00:14:58Z",
-                    "open_issues": 1273,
+                    "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77660,
+                    "stars": 77656,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1331,7 +1331,7 @@
                     "open_issues": 13,
                     "owner": "JiahuiYu",
                     "repo": "slimmable_networks",
-                    "stars": 929,
+                    "stars": 928,
                     "topics": [
                       "adaptive",
                       "automated",
@@ -1401,7 +1401,7 @@
                     "open_issues": 21,
                     "owner": "ethanhe42",
                     "repo": "channel-pruning",
-                    "stars": 1088,
+                    "stars": 1086,
                     "topics": [
                       "acceleration",
                       "channel-pruning",
@@ -1499,7 +1499,7 @@
                 "open_issues": 75,
                 "owner": "Tencent",
                 "repo": "PocketFlow",
-                "stars": 2909,
+                "stars": 2908,
                 "topics": [
                   "automl",
                   "computer-vision",
@@ -1526,7 +1526,7 @@
                 "open_issues": 11,
                 "owner": "aaron-xichen",
                 "repo": "pytorch-playground",
-                "stars": 2718,
+                "stars": 2719,
                 "topics": [
                   "pytorch",
                   "pytorch-tutorial",
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5078,
+            "stars": 5077,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10847,
+            "stars": 10846,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7505,
+            "stars": 7502,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:22:48.283Z",
+    "last_updated": "2026-09-08T18:57:34.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
