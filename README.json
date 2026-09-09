@@ -344,11 +344,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-05T00:14:58Z",
+                    "last_commit": "2026-09-09T03:15:30Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77656,
+                    "stars": 77658,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -567,11 +567,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-09-04T13:26:56Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-09T16:28:07Z",
+                "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39715,
+                "stars": 39720,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14359,
+                "stars": 14358,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -969,11 +969,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-05T00:14:58Z",
+                    "last_commit": "2026-09-09T03:15:30Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77656,
+                    "stars": 77658,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1258,11 +1258,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-05T00:14:58Z",
+                    "last_commit": "2026-09-09T03:15:30Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77656,
+                    "stars": 77658,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14359,
+                "stars": 14358,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1943,7 +1943,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4156,
+            "stars": 4157,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:57:34.124Z",
+    "last_updated": "2026-09-09T18:50:36.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
