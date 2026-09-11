@@ -344,11 +344,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-09T03:15:30Z",
+                    "last_commit": "2026-09-10T20:22:01Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -567,11 +567,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-09-10T13:19:15Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-11T02:43:59Z",
+                "open_issues": 5,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39720,
+                "stars": 39723,
                 "topics": [
                   "agents",
                   "ai",
@@ -694,7 +694,7 @@
                     "open_issues": 320,
                     "owner": "tensorflow",
                     "repo": "tpu",
-                    "stars": 5276,
+                    "stars": 5277,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -785,7 +785,7 @@
                     "open_issues": 7,
                     "owner": "wutianyiRosun",
                     "repo": "CGNet",
-                    "stars": 278,
+                    "stars": 279,
                     "topics": [
                       "camvid",
                       "cityscapes",
@@ -818,7 +818,7 @@
                     "open_issues": 2,
                     "owner": "sacmehta",
                     "repo": "ESPNetv2",
-                    "stars": 455,
+                    "stars": 456,
                     "topics": [
                       "cnn",
                       "convolutional-neural-networks",
@@ -969,11 +969,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-09T03:15:30Z",
+                    "last_commit": "2026-09-10T20:22:01Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1258,11 +1258,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-09T03:15:30Z",
+                    "last_commit": "2026-09-10T20:22:01Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1526,7 +1526,7 @@
                 "open_issues": 11,
                 "owner": "aaron-xichen",
                 "repo": "pytorch-playground",
-                "stars": 2719,
+                "stars": 2720,
                 "topics": [
                   "pytorch",
                   "pytorch-tutorial",
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5076,
+            "stars": 5077,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:40:35.475Z",
+    "last_updated": "2026-09-11T18:44:23.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
