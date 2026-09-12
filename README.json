@@ -348,7 +348,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77660,
+                    "stars": 77661,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 5,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39723,
+                "stars": 39730,
                 "topics": [
                   "agents",
                   "ai",
@@ -973,7 +973,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77660,
+                    "stars": 77661,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77660,
+                    "stars": 77661,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7503,
+            "stars": 7502,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:44:23.656Z",
+    "last_updated": "2026-09-12T17:49:33.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
