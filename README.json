@@ -313,7 +313,7 @@
                     "open_issues": 2,
                     "owner": "mit-han-lab",
                     "repo": "proxylessnas",
-                    "stars": 1448,
+                    "stars": 1449,
                     "topics": [
                       "acceleration",
                       "automl",
@@ -348,7 +348,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77661,
+                    "stars": 77659,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 5,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39730,
+                "stars": 39732,
                 "topics": [
                   "agents",
                   "ai",
@@ -973,7 +973,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77661,
+                    "stars": 77659,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77661,
+                    "stars": 77659,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1499,7 +1499,7 @@
                 "open_issues": 75,
                 "owner": "Tencent",
                 "repo": "PocketFlow",
-                "stars": 2908,
+                "stars": 2909,
                 "topics": [
                   "automl",
                   "computer-vision",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:49:33.401Z",
+    "last_updated": "2026-09-13T18:20:13.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
