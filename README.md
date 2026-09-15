@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,730 | 🐛 5 | 🌐 Makefile | 📅 2026-09-11 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,738 | 🐛 5 | 🌐 Makefile | 📅 2026-09-11 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -148,7 +148,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [wutianyiRosun/CGNet](https://github.com/wutianyiRosun/CGNet) ⭐ 279 | 🐛 7 | 🌐 Python | 📅 2022-02-16 | \[Pytorch]
 
 * [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | \[2018/11]
-  * [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) ⭐ 456 | 🐛 2 | 🌐 Python | 📅 2021-01-29 | \[Pytorch]
+  * [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) ⭐ 457 | 🐛 2 | 🌐 Python | 📅 2021-01-29 | \[Pytorch]
 
 * [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](https://sacmehta.github.io/ESPNet/) | \[**ECCV 2018**]
   * [sacmehta/ESPNet](https://github.com/sacmehta/ESPNet/) ⭐ 542 | 🐛 9 | 🌐 Python | 📅 2023-06-30 | \[Pytorch]
@@ -309,4 +309,4 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

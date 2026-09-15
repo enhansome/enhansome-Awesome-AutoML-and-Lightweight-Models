@@ -571,7 +571,7 @@
                 "open_issues": 5,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39730,
+                "stars": 39738,
                 "topics": [
                   "agents",
                   "ai",
@@ -818,7 +818,7 @@
                     "open_issues": 2,
                     "owner": "sacmehta",
                     "repo": "ESPNetv2",
-                    "stars": 456,
+                    "stars": 457,
                     "topics": [
                       "cnn",
                       "convolutional-neural-networks",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:55:49.996Z",
+    "last_updated": "2026-09-15T19:11:38.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
