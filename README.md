@@ -14,7 +14,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [gmh14/RobNets](https://github.com/gmh14/RobNets) ⭐ 126 | 🐛 10 | 🌐 Python | 📅 2020-10-21 | \[Pytorch]
 
 * [Searching for A Robust Neural Architecture in Four GPU Hours](https://xuanyidong.com/publication/cvpr-2019-gradient-based-diff-sampler/) | \[**CVPR 2019**]
-  * [D-X-Y/GDAS](https://github.com/D-X-Y/GDAS) ⭐ 1,582 | 🐛 15 | 🌐 Python | 📅 2022-04-24 | \[Pytorch]
+  * [D-X-Y/GDAS](https://github.com/D-X-Y/GDAS) ⭐ 1,583 | 🐛 15 | 🌐 Python | 📅 2022-04-24 | \[Pytorch]
 
 * [ASAP: Architecture Search, Anneal and Prune](https://arxiv.org/abs/1904.04123) | \[2019/04]
 
@@ -62,7 +62,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Transfer Learning with Neural AutoML](http://papers.nips.cc/paper/8056-transfer-learning-with-neural-automl) | \[**NIPS 2018**]
 
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012) | \[2018/07]
-  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,659 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10 | \[Tensorflow]
+  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,658 | 🐛 1,275 | 🌐 Python | 📅 2026-09-16 | \[Tensorflow]
   * [wandering007/nasnet-pytorch](https://github.com/wandering007/nasnet-pytorch) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2020-12-05 | \[Pytorch]
 
 * [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) | \[2018/07]
@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,738 | 🐛 5 | 🌐 Makefile | 📅 2026-09-11 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,739 | 🐛 6 | 🌐 Makefile | 📅 2026-09-11 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -135,7 +135,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Image Classification:**
 
 * [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a.html) | \[**ICML 2019**]
-  * [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) ⭐ 8,218 | 🐛 167 | 🌐 Python | 📅 2022-04-08 | \[Pytorch]
+  * [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) ⭐ 8,217 | 🐛 167 | 🌐 Python | 📅 2022-04-08 | \[Pytorch]
   * [tensorflow/tpu/models/official/efficientnet/](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) ⭐ 5,278 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-06-22 | \[Tensorflow]
 
 * [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) | \[2019/05]
@@ -151,7 +151,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) ⭐ 457 | 🐛 2 | 🌐 Python | 📅 2021-01-29 | \[Pytorch]
 
 * [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](https://sacmehta.github.io/ESPNet/) | \[**ECCV 2018**]
-  * [sacmehta/ESPNet](https://github.com/sacmehta/ESPNet/) ⭐ 542 | 🐛 9 | 🌐 Python | 📅 2023-06-30 | \[Pytorch]
+  * [sacmehta/ESPNet](https://github.com/sacmehta/ESPNet/) ⭐ 543 | 🐛 9 | 🌐 Python | 📅 2023-06-30 | \[Pytorch]
 
 * [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1808.00897) | \[**ECCV 2018**]
   * [ycszen/TorchSeg](https://github.com/ycszen/TorchSeg) ⭐ 1,409 | 🐛 41 | 🌐 Python | 📅 2020-03-11 | \[Pytorch]
@@ -165,7 +165,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [ThunderNet: Towards Real-time Generic Object Detection](https://arxiv.org/abs/1903.11752) | \[2019/03]
 
 * [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | \[2018/09]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,659 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,658 | 🐛 1,275 | 🌐 Python | 📅 2026-09-16 | \[Tensorflow]
 
 * [Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages](https://arxiv.org/abs/1807.11013) | \[**BMVC 2018**]
   * [lyxok1/Tiny-DSOD](https://github.com/lyxok1/Tiny-DSOD) ⭐ 231 | 🐛 20 | 🌐 C++ | 📅 2019-06-07 | \[Caffe]
@@ -185,7 +185,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [dlyldxwl/fssd.pytorch](https://github.com/dlyldxwl/fssd.pytorch) ⭐ 68 | 🐛 9 | 🌐 Python | 📅 2019-03-19 | \[Pytorch]
 
 * [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | \[**CVPR 2017**]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,659 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,658 | 🐛 1,275 | 🌐 Python | 📅 2026-09-16 | \[Tensorflow]
 
 ## 3.) Model Compression & Acceleration
 
@@ -249,7 +249,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ### **\[Projects]**
 
 * [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) ⭐ 2,911 | 🐛 75 | 🌐 Python | 📅 2023-03-31 | \[Tensorflow]
-* [aaron-xichen/pytorch-playground](https://github.com/aaron-xichen/pytorch-playground) ⭐ 2,720 | 🐛 11 | 🌐 Python | 📅 2022-11-22 | \[Pytorch]
+* [aaron-xichen/pytorch-playground](https://github.com/aaron-xichen/pytorch-playground) ⭐ 2,721 | 🐛 11 | 🌐 Python | 📅 2022-11-22 | \[Pytorch]
 * [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | \[Pytorch]
 
 ### **\[Tutorials/Blogs]**
@@ -309,4 +309,4 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
