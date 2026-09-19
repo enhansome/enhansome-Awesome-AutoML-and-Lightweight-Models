@@ -60,7 +60,7 @@
                     "open_issues": 15,
                     "owner": "D-X-Y",
                     "repo": "AutoDL-Projects",
-                    "stars": 1583,
+                    "stars": 1582,
                     "topics": [
                       "autodl",
                       "automl",
@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3997,
+                    "stars": 3996,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -313,7 +313,7 @@
                     "open_issues": 2,
                     "owner": "mit-han-lab",
                     "repo": "proxylessnas",
-                    "stars": 1448,
+                    "stars": 1447,
                     "topics": [
                       "acceleration",
                       "automl",
@@ -348,7 +348,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77654,
+                    "stars": 77653,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39747,
+                "stars": 39752,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14360,
+                "stars": 14359,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -889,7 +889,7 @@
                     "open_issues": 41,
                     "owner": "yu-changqian",
                     "repo": "TorchSeg",
-                    "stars": 1409,
+                    "stars": 1408,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -973,7 +973,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77654,
+                    "stars": 77653,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1087,7 +1087,7 @@
                     "open_issues": 58,
                     "owner": "GOATmessi8",
                     "repo": "RFBNet",
-                    "stars": 1418,
+                    "stars": 1417,
                     "topics": [
                       "detection",
                       "mobilenet",
@@ -1262,7 +1262,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77654,
+                    "stars": 77653,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1331,7 +1331,7 @@
                     "open_issues": 13,
                     "owner": "JiahuiYu",
                     "repo": "slimmable_networks",
-                    "stars": 928,
+                    "stars": 927,
                     "topics": [
                       "adaptive",
                       "automated",
@@ -1499,7 +1499,7 @@
                 "open_issues": 75,
                 "owner": "Tencent",
                 "repo": "PocketFlow",
-                "stars": 2911,
+                "stars": 2910,
                 "topics": [
                   "automl",
                   "computer-vision",
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14360,
+                "stars": 14359,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5080,
+            "stars": 5079,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1828,7 +1828,7 @@
             "open_issues": 141,
             "owner": "sksq96",
             "repo": "pytorch-summary",
-            "stars": 4051,
+            "stars": 4050,
             "topics": [
               "deep-learning",
               "keras",
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10846,
+            "stars": 10845,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:37:55.991Z",
+    "last_updated": "2026-09-19T18:12:25.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
