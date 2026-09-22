@@ -313,7 +313,7 @@
                     "open_issues": 2,
                     "owner": "mit-han-lab",
                     "repo": "proxylessnas",
-                    "stars": 1448,
+                    "stars": 1449,
                     "topics": [
                       "acceleration",
                       "automl",
@@ -345,10 +345,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-16T18:51:07Z",
-                    "open_issues": 1271,
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653,
+                    "stars": 77650,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39761,
+                "stars": 39762,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14362,
+                "stars": 14363,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -970,10 +970,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-16T18:51:07Z",
-                    "open_issues": 1271,
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653,
+                    "stars": 77650,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1140,7 +1140,7 @@
                     "open_issues": 40,
                     "owner": "ShuangXieIrene",
                     "repo": "ssds.pytorch",
-                    "stars": 566,
+                    "stars": 565,
                     "topics": [
                       "darknet",
                       "fssd",
@@ -1204,7 +1204,7 @@
                     "open_issues": 40,
                     "owner": "ShuangXieIrene",
                     "repo": "ssds.pytorch",
-                    "stars": 566,
+                    "stars": 565,
                     "topics": [
                       "darknet",
                       "fssd",
@@ -1259,10 +1259,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-16T18:51:07Z",
-                    "open_issues": 1271,
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653,
+                    "stars": 77650,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1401,7 +1401,7 @@
                     "open_issues": 21,
                     "owner": "ethanhe42",
                     "repo": "channel-pruning",
-                    "stars": 1086,
+                    "stars": 1087,
                     "topics": [
                       "acceleration",
                       "channel-pruning",
@@ -1598,7 +1598,7 @@
                     "open_issues": 0,
                     "owner": "LiYangHart",
                     "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                    "stars": 1346,
+                    "stars": 1347,
                     "topics": [
                       "artificial-neural-networks",
                       "automated-machine-learning",
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14362,
+                "stars": 14363,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1691,7 +1691,7 @@
                 "open_issues": 0,
                 "owner": "LiYangHart",
                 "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "artificial-neural-networks",
                   "automated-machine-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:07:05.088Z",
+    "last_updated": "2026-09-22T19:08:54.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",

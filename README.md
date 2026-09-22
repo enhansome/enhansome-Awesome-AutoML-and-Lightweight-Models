@@ -57,12 +57,12 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [moremnas/MoreMNAS](https://github.com/moremnas/MoreMNAS) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2020-07-06 | \[Tensorflow]
 
 * [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332) | \[**ICLR 2019**]
-  * [MIT-HAN-LAB/ProxylessNAS](https://github.com/MIT-HAN-LAB/ProxylessNAS) ⭐ 1,448 | 🐛 2 | 🌐 C++ | 📅 2024-08-30 | \[Pytorch, Tensorflow]
+  * [MIT-HAN-LAB/ProxylessNAS](https://github.com/MIT-HAN-LAB/ProxylessNAS) ⭐ 1,449 | 🐛 2 | 🌐 C++ | 📅 2024-08-30 | \[Pytorch, Tensorflow]
 
 * [Transfer Learning with Neural AutoML](http://papers.nips.cc/paper/8056-transfer-learning-with-neural-automl) | \[**NIPS 2018**]
 
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012) | \[2018/07]
-  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-09-16 | \[Tensorflow]
+  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,650 | 🐛 1,272 | 🌐 Python | 📅 2026-09-16 | \[Tensorflow]
   * [wandering007/nasnet-pytorch](https://github.com/wandering007/nasnet-pytorch) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2020-12-05 | \[Pytorch]
 
 * [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) | \[2018/07]
@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,761 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,762 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -165,7 +165,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [ThunderNet: Towards Real-time Generic Object Detection](https://arxiv.org/abs/1903.11752) | \[2019/03]
 
 * [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | \[2018/09]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-09-16 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,650 | 🐛 1,272 | 🌐 Python | 📅 2026-09-16 | \[Tensorflow]
 
 * [Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages](https://arxiv.org/abs/1807.11013) | \[**BMVC 2018**]
   * [lyxok1/Tiny-DSOD](https://github.com/lyxok1/Tiny-DSOD) ⭐ 231 | 🐛 20 | 🌐 C++ | 📅 2019-06-07 | \[Caffe]
@@ -177,15 +177,15 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Receptive Field Block Net for Accurate and Fast Object Detection](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Songtao_Liu_Receptive_Field_Block_ECCV_2018_paper.pdf) | \[**ECCV 2018**]
   * [ruinmessi/RFBNet](https://github.com/ruinmessi/RFBNet) ⭐ 1,417 | 🐛 58 | 🌐 Python | 📅 2021-11-02 | \[Pytorch]
   * [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) ⭐ 704 | 🐛 44 | 🌐 Python | 📅 2020-03-27 | \[Pytorch]
-  * [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) ⭐ 566 | 🐛 40 | 🌐 Python | 📅 2020-08-18 | \[Pytorch]
+  * [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) ⭐ 565 | 🐛 40 | 🌐 Python | 📅 2020-08-18 | \[Pytorch]
 
 * [FSSD: Feature Fusion Single Shot Multibox Detector](https://arxiv.org/abs/1712.00960) | \[2017/12]
   * [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) ⭐ 704 | 🐛 44 | 🌐 Python | 📅 2020-03-27 | \[Pytorch]
-  * [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) ⭐ 566 | 🐛 40 | 🌐 Python | 📅 2020-08-18 | \[Pytorch]
+  * [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) ⭐ 565 | 🐛 40 | 🌐 Python | 📅 2020-08-18 | \[Pytorch]
   * [dlyldxwl/fssd.pytorch](https://github.com/dlyldxwl/fssd.pytorch) ⭐ 68 | 🐛 9 | 🌐 Python | 📅 2019-03-19 | \[Pytorch]
 
 * [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | \[**CVPR 2017**]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-09-16 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,650 | 🐛 1,272 | 🌐 Python | 📅 2026-09-16 | \[Tensorflow]
 
 ## 3.) Model Compression & Acceleration
 
@@ -208,7 +208,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [foolwood/pytorch-slimming](https://github.com/foolwood/pytorch-slimming) ⭐ 573 | 🐛 16 | 🌐 Python | 📅 2019-05-13 | \[Pytorch]
 
 * [Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/abs/1707.06168) | \[**ICCV 2017**]
-  * [yihui-he/channel-pruning](https://github.com/yihui-he/channel-pruning) ⭐ 1,086 | 🐛 21 | 🌐 Python | 📅 2024-05-02 | \[Caffe]
+  * [yihui-he/channel-pruning](https://github.com/yihui-he/channel-pruning) ⭐ 1,087 | 🐛 21 | 🌐 Python | 📅 2024-05-02 | \[Caffe]
 
 * [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440) | \[**ICLR 2017**]
   * [jacobgil/pytorch-pruning](https://github.com/jacobgil/pytorch-pruning) ⭐ 884 | 🐛 31 | 🌐 Python | 📅 2019-07-12 | \[Pytorch]
@@ -268,12 +268,12 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Google vizier: A service for black-box optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) | \[**SIGKDD 2017**]
 
 * [On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice](https://arxiv.org/abs/2007.15745) | \[**Neurocomputing 2020**]
-  * [LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) ⭐ 1,346 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-22
+  * [LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) ⭐ 1,347 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-22
 
 ### **\[Projects]**
 
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
-* [LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) ⭐ 1,346 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-22 | \[Python]
+* [LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) ⭐ 1,347 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-22 | \[Python]
 * [dragonfly/dragonfly](https://github.com/dragonfly/dragonfly) ⭐ 894 | 🐛 43 | 🌐 Python | 📅 2023-06-19 | \[Python]
 * [BoTorch](https://botorch.org/) | \[PyTorch]
 * [Ax (Adaptive Experimentation Platform)](https://ax.dev/) | \[PyTorch]
@@ -309,4 +309,4 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
