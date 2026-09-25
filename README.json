@@ -433,7 +433,7 @@
                     "open_issues": 40,
                     "owner": "carpedm20",
                     "repo": "ENAS-pytorch",
-                    "stars": 2718,
+                    "stars": 2719,
                     "topics": [
                       "google-brain",
                       "neural-architecture-search",
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39766,
+                "stars": 39772,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14363,
+                "stars": 14362,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -938,7 +938,7 @@
                     "open_issues": 14,
                     "owner": "Eromera",
                     "repo": "erfnet_pytorch",
-                    "stars": 445,
+                    "stars": 446,
                     "topics": [
                       "cityscapes",
                       "erfnet",
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14363,
+                "stars": 14362,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5079,
+            "stars": 5080,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1854,7 +1854,7 @@
             "open_issues": 29,
             "owner": "sovrasov",
             "repo": "flops-counter.pytorch",
-            "stars": 2982,
+            "stars": 2983,
             "topics": [
               "deep-neural-networks",
               "deeplearning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:29:41.575Z",
+    "last_updated": "2026-09-25T19:32:58.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",

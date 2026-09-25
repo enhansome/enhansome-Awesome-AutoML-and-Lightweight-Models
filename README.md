@@ -71,7 +71,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Practical Block-wise Neural Network Architecture Generation](https://arxiv.org/abs/1708.05552) | \[**CVPR 2018**]
 
 * [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) | \[**ICML 2018**]
-  * [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) ⭐ 2,718 | 🐛 40 | 🌐 Python | 📅 2023-07-06 | \[Pytorch]
+  * [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) ⭐ 2,719 | 🐛 40 | 🌐 Python | 📅 2023-07-06 | \[Pytorch]
   * [melodyguan/enas](https://github.com/melodyguan/enas) ⭐ 1,579 | 🐛 84 | 🌐 Python | 📅 2019-06-18 | \[Tensorflow]
 
 * [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873) | \[**AAAI 2018**]
@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,766 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,772 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -158,7 +158,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [ooooverflow/BiSeNet](https://github.com/ooooverflow/BiSeNet) ⭐ 409 | 🐛 23 | 🌐 Python | 📅 2020-03-13 | \[Pytorch]
 
 * [ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation](http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17tits.pdf) | \[**T-ITS 2017**]
-  * [Eromera/erfnet\_pytorch](https://github.com/Eromera/erfnet_pytorch) ⭐ 445 | 🐛 14 | 🌐 Python | 📅 2019-12-05 | \[Pytorch]
+  * [Eromera/erfnet\_pytorch](https://github.com/Eromera/erfnet_pytorch) ⭐ 446 | 🐛 14 | 🌐 Python | 📅 2019-12-05 | \[Pytorch]
 
 **Object Detection:**
 
@@ -291,11 +291,11 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## Model Analyzer
 
-* [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) ⭐ 5,079 | 🐛 84 | 🌐 Python | 📅 2024-07-08 | \[Pytorch]
+* [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) ⭐ 5,080 | 🐛 84 | 🌐 Python | 📅 2024-07-08 | \[Pytorch]
 
 * [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) ⭐ 4,050 | 🐛 141 | 🌐 Python | 📅 2024-03-02 | \[Pytorch]
 
-* [sovrasov/flops-counter.pytorch](https://github.com/sovrasov/flops-counter.pytorch) ⭐ 2,982 | 🐛 29 | 🌐 Python | 📅 2025-08-20 | \[Pytorch]
+* [sovrasov/flops-counter.pytorch](https://github.com/sovrasov/flops-counter.pytorch) ⭐ 2,983 | 🐛 29 | 🌐 Python | 📅 2025-08-20 | \[Pytorch]
 
 * [Netscope CNN Analyzer](https://chakkritte.github.io/netscope/quickstart.html) | \[Caffe]
 
@@ -309,4 +309,4 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
