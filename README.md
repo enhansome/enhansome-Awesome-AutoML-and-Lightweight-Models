@@ -62,7 +62,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Transfer Learning with Neural AutoML](http://papers.nips.cc/paper/8056-transfer-learning-with-neural-automl) | \[**NIPS 2018**]
 
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012) | \[2018/07]
-  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,652 | 🐛 1,272 | 🌐 Python | 📅 2026-09-23 | \[Tensorflow]
+  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,653 | 🐛 1,272 | 🌐 Python | 📅 2026-09-23 | \[Tensorflow]
   * [wandering007/nasnet-pytorch](https://github.com/wandering007/nasnet-pytorch) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2020-12-05 | \[Pytorch]
 
 * [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) | \[2018/07]
@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,772 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,777 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -165,7 +165,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [ThunderNet: Towards Real-time Generic Object Detection](https://arxiv.org/abs/1903.11752) | \[2019/03]
 
 * [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | \[2018/09]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,652 | 🐛 1,272 | 🌐 Python | 📅 2026-09-23 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,653 | 🐛 1,272 | 🌐 Python | 📅 2026-09-23 | \[Tensorflow]
 
 * [Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages](https://arxiv.org/abs/1807.11013) | \[**BMVC 2018**]
   * [lyxok1/Tiny-DSOD](https://github.com/lyxok1/Tiny-DSOD) ⭐ 231 | 🐛 20 | 🌐 C++ | 📅 2019-06-07 | \[Caffe]
@@ -185,7 +185,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [dlyldxwl/fssd.pytorch](https://github.com/dlyldxwl/fssd.pytorch) ⭐ 68 | 🐛 9 | 🌐 Python | 📅 2019-03-19 | \[Pytorch]
 
 * [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | \[**CVPR 2017**]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,652 | 🐛 1,272 | 🌐 Python | 📅 2026-09-23 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,653 | 🐛 1,272 | 🌐 Python | 📅 2026-09-23 | \[Tensorflow]
 
 ## 3.) Model Compression & Acceleration
 
@@ -244,11 +244,11 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Acceleration:**
 
 * [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | \[**CVPR 2016**]
-  * [andravin/wincnn](https://github.com/andravin/wincnn) ⭐ 628 | 🐛 6 | 🌐 Python | 📅 2026-02-09 | \[Python]
+  * [andravin/wincnn](https://github.com/andravin/wincnn) ⭐ 629 | 🐛 6 | 🌐 Python | 📅 2026-02-09 | \[Python]
 
 ### **\[Projects]**
 
-* [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) ⭐ 2,909 | 🐛 75 | 🌐 Python | 📅 2023-03-31 | \[Tensorflow]
+* [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) ⭐ 2,910 | 🐛 75 | 🌐 Python | 📅 2023-03-31 | \[Tensorflow]
 * [aaron-xichen/pytorch-playground](https://github.com/aaron-xichen/pytorch-playground) ⭐ 2,720 | 🐛 11 | 🌐 Python | 📅 2022-11-22 | \[Pytorch]
 * [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | \[Pytorch]
 
@@ -285,7 +285,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Overview of Bayesian Optimization](https://soubhikbarari.github.io/blog/2016/09/14/overview-of-bayesian-optimization)
 
 * [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
-  * [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) ⭐ 1,917 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-07-12 | \[Python]
+  * [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) ⭐ 1,918 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-07-12 | \[Python]
 
 ## 5.) Automated Feature Engineering
 
@@ -309,4 +309,4 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
