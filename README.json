@@ -345,7 +345,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-01T16:19:37Z",
-                    "open_issues": 1272,
+                    "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
                     "stars": 77653,
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39778,
+                "stars": 39779,
                 "topics": [
                   "agents",
                   "ai",
@@ -970,7 +970,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-01T16:19:37Z",
-                    "open_issues": 1272,
+                    "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
                     "stars": 77653,
@@ -1259,7 +1259,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-01T16:19:37Z",
-                    "open_issues": 1272,
+                    "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
                     "stars": 77653,
@@ -1557,7 +1557,7 @@
                 {
                   "node_type": "item",
                   "title": "dragonfly/dragonfly",
-                  "description": null,
+                  "description": "dragonfly/dragonfly",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1585,7 +1585,7 @@
                 {
                   "node_type": "item",
                   "title": "LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                  "description": null,
+                  "description": "LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1877,7 +1877,7 @@
         {
           "node_type": "item",
           "title": "mrgloom/awesome-semantic-segmentation",
-          "description": null,
+          "description": "mrgloom/awesome-semantic-segmentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1903,7 +1903,7 @@
         {
           "node_type": "item",
           "title": "amusi/awesome-object-detection",
-          "description": null,
+          "description": "amusi/awesome-object-detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1930,7 +1930,7 @@
         {
           "node_type": "item",
           "title": "hibayesian/awesome-automl-papers",
-          "description": null,
+          "description": "hibayesian/awesome-automl-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1956,7 +1956,7 @@
         {
           "node_type": "item",
           "title": "handong1587/handong1587.github.io",
-          "description": null,
+          "description": "handong1587/handong1587.github.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:07:25.770Z",
+    "last_updated": "2026-10-03T04:24:11.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
