@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,777 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,781 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -136,7 +136,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 * [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a.html) | \[**ICML 2019**]
   * [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) ⭐ 8,219 | 🐛 167 | 🌐 Python | 📅 2022-04-08 | \[Pytorch]
-  * [tensorflow/tpu/models/official/efficientnet/](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) ⭐ 5,280 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-06-22 | \[Tensorflow]
+  * [tensorflow/tpu/models/official/efficientnet/](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) ⭐ 5,279 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-06-22 | \[Tensorflow]
 
 * [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) | \[2019/05]
   * [kuan-wang/pytorch-mobilenet-v3](https://github.com/kuan-wang/pytorch-mobilenet-v3) ⭐ 806 | 🐛 9 | 🌐 Python | 📅 2019-06-23 | \[Pytorch]
@@ -309,4 +309,4 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
