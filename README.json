@@ -348,7 +348,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77649,
+                    "stars": 77647,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39788,
+                "stars": 39789,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14367,
+                "stars": 14366,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -973,7 +973,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77649,
+                    "stars": 77647,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77649,
+                    "stars": 77647,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14367,
+                "stars": 14366,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10841,
+            "stars": 10842,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7508,
+            "stars": 7509,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:42:36.202Z",
+    "last_updated": "2026-10-12T22:35:24.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
