@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 4000,
+                    "stars": 4001,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -345,7 +345,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-13T04:11:20Z",
-                    "open_issues": 1272,
+                    "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
                     "stars": 77648,
@@ -567,11 +567,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-10-13T13:09:00Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-14T16:44:03Z",
+                "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39792,
+                "stars": 39795,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14367,
+                "stars": 14366,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -694,7 +694,7 @@
                     "open_issues": 320,
                     "owner": "tensorflow",
                     "repo": "tpu",
-                    "stars": 5281,
+                    "stars": 5282,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -889,7 +889,7 @@
                     "open_issues": 41,
                     "owner": "yu-changqian",
                     "repo": "TorchSeg",
-                    "stars": 1408,
+                    "stars": 1409,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -970,7 +970,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-13T04:11:20Z",
-                    "open_issues": 1272,
+                    "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
                     "stars": 77648,
@@ -1259,7 +1259,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-13T04:11:20Z",
-                    "open_issues": 1272,
+                    "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
                     "stars": 77648,
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14367,
+                "stars": 14366,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7510,
+            "stars": 7509,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1943,7 +1943,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4163,
+            "stars": 4162,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:48:48.579Z",
+    "last_updated": "2026-10-14T19:41:01.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
