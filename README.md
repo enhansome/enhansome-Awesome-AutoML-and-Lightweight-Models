@@ -62,7 +62,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Transfer Learning with Neural AutoML](http://papers.nips.cc/paper/8056-transfer-learning-with-neural-automl) | \[**NIPS 2018**]
 
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012) | \[2018/07]
-  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,648 | 🐛 1,274 | 🌐 Python | 📅 2026-10-13 | \[Tensorflow]
+  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,646 | 🐛 1,274 | 🌐 Python | 📅 2026-10-13 | \[Tensorflow]
   * [wandering007/nasnet-pytorch](https://github.com/wandering007/nasnet-pytorch) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2020-12-05 | \[Pytorch]
 
 * [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) | \[2018/07]
@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,795 | 🐛 7 | 🌐 Makefile | 📅 2026-10-14 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,796 | 🐛 7 | 🌐 Makefile | 📅 2026-10-14 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -154,7 +154,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [sacmehta/ESPNet](https://github.com/sacmehta/ESPNet/) ⭐ 543 | 🐛 9 | 🌐 Python | 📅 2023-06-30 | \[Pytorch]
 
 * [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1808.00897) | \[**ECCV 2018**]
-  * [ycszen/TorchSeg](https://github.com/ycszen/TorchSeg) ⭐ 1,409 | 🐛 41 | 🌐 Python | 📅 2020-03-11 | \[Pytorch]
+  * [ycszen/TorchSeg](https://github.com/ycszen/TorchSeg) ⭐ 1,408 | 🐛 41 | 🌐 Python | 📅 2020-03-11 | \[Pytorch]
   * [ooooverflow/BiSeNet](https://github.com/ooooverflow/BiSeNet) ⭐ 409 | 🐛 23 | 🌐 Python | 📅 2020-03-13 | \[Pytorch]
 
 * [ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation](http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17tits.pdf) | \[**T-ITS 2017**]
@@ -165,7 +165,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [ThunderNet: Towards Real-time Generic Object Detection](https://arxiv.org/abs/1903.11752) | \[2019/03]
 
 * [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | \[2018/09]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,648 | 🐛 1,274 | 🌐 Python | 📅 2026-10-13 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,646 | 🐛 1,274 | 🌐 Python | 📅 2026-10-13 | \[Tensorflow]
 
 * [Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages](https://arxiv.org/abs/1807.11013) | \[**BMVC 2018**]
   * [lyxok1/Tiny-DSOD](https://github.com/lyxok1/Tiny-DSOD) ⭐ 230 | 🐛 20 | 🌐 C++ | 📅 2019-06-07 | \[Caffe]
@@ -176,16 +176,16 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 * [Receptive Field Block Net for Accurate and Fast Object Detection](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Songtao_Liu_Receptive_Field_Block_ECCV_2018_paper.pdf) | \[**ECCV 2018**]
   * [ruinmessi/RFBNet](https://github.com/ruinmessi/RFBNet) ⭐ 1,416 | 🐛 58 | 🌐 Python | 📅 2021-11-02 | \[Pytorch]
-  * [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) ⭐ 703 | 🐛 44 | 🌐 Python | 📅 2020-03-27 | \[Pytorch]
+  * [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) ⭐ 702 | 🐛 44 | 🌐 Python | 📅 2020-03-27 | \[Pytorch]
   * [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) ⭐ 565 | 🐛 40 | 🌐 Python | 📅 2020-08-18 | \[Pytorch]
 
 * [FSSD: Feature Fusion Single Shot Multibox Detector](https://arxiv.org/abs/1712.00960) | \[2017/12]
-  * [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) ⭐ 703 | 🐛 44 | 🌐 Python | 📅 2020-03-27 | \[Pytorch]
+  * [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) ⭐ 702 | 🐛 44 | 🌐 Python | 📅 2020-03-27 | \[Pytorch]
   * [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) ⭐ 565 | 🐛 40 | 🌐 Python | 📅 2020-08-18 | \[Pytorch]
   * [dlyldxwl/fssd.pytorch](https://github.com/dlyldxwl/fssd.pytorch) ⭐ 68 | 🐛 9 | 🌐 Python | 📅 2019-03-19 | \[Pytorch]
 
 * [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | \[**CVPR 2017**]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,648 | 🐛 1,274 | 🌐 Python | 📅 2026-10-13 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,646 | 🐛 1,274 | 🌐 Python | 📅 2026-10-13 | \[Tensorflow]
 
 ## 3.) Model Compression & Acceleration
 
@@ -291,22 +291,22 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## Model Analyzer
 
-* [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) ⭐ 5,083 | 🐛 84 | 🌐 Python | 📅 2024-07-08 | \[Pytorch]
+* [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) ⭐ 5,082 | 🐛 84 | 🌐 Python | 📅 2024-07-08 | \[Pytorch]
 
-* [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) ⭐ 4,049 | 🐛 141 | 🌐 Python | 📅 2024-03-02 | \[Pytorch]
+* [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) ⭐ 4,050 | 🐛 141 | 🌐 Python | 📅 2024-03-02 | \[Pytorch]
 
-* [sovrasov/flops-counter.pytorch](https://github.com/sovrasov/flops-counter.pytorch) ⭐ 2,983 | 🐛 29 | 🌐 Python | 📅 2025-08-20 | \[Pytorch]
+* [sovrasov/flops-counter.pytorch](https://github.com/sovrasov/flops-counter.pytorch) ⭐ 2,982 | 🐛 29 | 🌐 Python | 📅 2025-08-20 | \[Pytorch]
 
 * [Netscope CNN Analyzer](https://chakkritte.github.io/netscope/quickstart.html) | \[Caffe]
 
 ## References
 
-* [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,844 | 🐛 17 | 📅 2021-05-08
+* [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,843 | 🐛 17 | 📅 2021-05-08
 * [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,509 | 🐛 7 | 📅 2022-12-17
 * [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,162 | 🐛 2 | 📅 2024-06-11
-* [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning) ⭐ 3,136 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
+* [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning) ⭐ 3,135 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
 * [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

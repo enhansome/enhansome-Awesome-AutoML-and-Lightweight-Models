@@ -348,7 +348,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39795,
+                "stars": 39796,
                 "topics": [
                   "agents",
                   "ai",
@@ -889,7 +889,7 @@
                     "open_issues": 41,
                     "owner": "yu-changqian",
                     "repo": "TorchSeg",
-                    "stars": 1409,
+                    "stars": 1408,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -973,7 +973,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1113,7 +1113,7 @@
                     "open_issues": 44,
                     "owner": "lzx1413",
                     "repo": "PytorchSSD",
-                    "stars": 703,
+                    "stars": 702,
                     "topics": [
                       "fssd",
                       "pytorch",
@@ -1177,7 +1177,7 @@
                     "open_issues": 44,
                     "owner": "lzx1413",
                     "repo": "PytorchSSD",
-                    "stars": 703,
+                    "stars": 702,
                     "topics": [
                       "fssd",
                       "pytorch",
@@ -1262,7 +1262,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5083,
+            "stars": 5082,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1828,7 +1828,7 @@
             "open_issues": 141,
             "owner": "sksq96",
             "repo": "pytorch-summary",
-            "stars": 4049,
+            "stars": 4050,
             "topics": [
               "deep-learning",
               "keras",
@@ -1854,7 +1854,7 @@
             "open_issues": 29,
             "owner": "sovrasov",
             "repo": "flops-counter.pytorch",
-            "stars": 2983,
+            "stars": 2982,
             "topics": [
               "deep-neural-networks",
               "deeplearning",
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10844,
+            "stars": 10843,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1969,7 +1969,7 @@
             "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3136,
+            "stars": 3135,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:41:01.436Z",
+    "last_updated": "2026-10-15T19:22:34.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
