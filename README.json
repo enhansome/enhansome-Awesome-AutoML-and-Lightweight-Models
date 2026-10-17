@@ -60,7 +60,7 @@
                     "open_issues": 15,
                     "owner": "D-X-Y",
                     "repo": "AutoDL-Projects",
-                    "stars": 1581,
+                    "stars": 1580,
                     "topics": [
                       "autodl",
                       "automl",
@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 4000,
+                    "stars": 3998,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -348,7 +348,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77644,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39802,
+                "stars": 39801,
                 "topics": [
                   "agents",
                   "ai",
@@ -818,7 +818,7 @@
                     "open_issues": 2,
                     "owner": "sacmehta",
                     "repo": "ESPNetv2",
-                    "stars": 457,
+                    "stars": 456,
                     "topics": [
                       "cnn",
                       "convolutional-neural-networks",
@@ -856,7 +856,7 @@
                     "open_issues": 9,
                     "owner": "sacmehta",
                     "repo": "ESPNet",
-                    "stars": 543,
+                    "stars": 542,
                     "topics": [
                       "convolutional-neural-networks",
                       "edge-devices",
@@ -973,7 +973,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77644,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77644,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:01:18.700Z",
+    "last_updated": "2026-10-17T17:55:25.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
