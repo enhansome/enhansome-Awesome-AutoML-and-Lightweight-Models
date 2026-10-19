@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3998,
+                    "stars": 3997,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -433,7 +433,7 @@
                     "open_issues": 40,
                     "owner": "carpedm20",
                     "repo": "ENAS-pytorch",
-                    "stars": 2721,
+                    "stars": 2722,
                     "topics": [
                       "google-brain",
                       "neural-architecture-search",
@@ -458,7 +458,7 @@
                     "open_issues": 84,
                     "owner": "melodyguan",
                     "repo": "enas",
-                    "stars": 1578,
+                    "stars": 1579,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -567,11 +567,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-10-14T16:44:03Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-19T20:39:01Z",
+                "open_issues": 9,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39801,
+                "stars": 39799,
                 "topics": [
                   "agents",
                   "ai",
@@ -668,7 +668,7 @@
                     "open_issues": 167,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8220,
+                    "stars": 8219,
                     "topics": [
                       "efficientnet-pytorch",
                       "feature-extraction",
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10843,
+            "stars": 10842,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:16:23.425Z",
+    "last_updated": "2026-10-19T20:42:22.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",

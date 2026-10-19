@@ -40,7 +40,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [renqianluo/NAO](https://github.com/renqianluo/NAO) ⭐ 285 | 🐛 11 | 🌐 Python | 📅 2021-01-11 | \[Tensorflow]
 
 * [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) | \[2018/06]
-  * [quark0/darts](https://github.com/quark0/darts) ⭐ 3,998 | 🐛 95 | 🌐 Python | 📅 2021-01-03 | \[Pytorch]
+  * [quark0/darts](https://github.com/quark0/darts) ⭐ 3,997 | 🐛 95 | 🌐 Python | 📅 2021-01-03 | \[Pytorch]
   * [khanrc/pt.darts](https://github.com/khanrc/pt.darts) ⭐ 451 | 🐛 33 | 🌐 Python | 📅 2022-07-19 | \[Pytorch]
   * [dragen1860/DARTS-PyTorch](https://github.com/dragen1860/DARTS-PyTorch) ⭐ 80 | 🐛 4 | 🌐 Python | 📅 2019-03-01 | \[Pytorch]
 
@@ -71,8 +71,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Practical Block-wise Neural Network Architecture Generation](https://arxiv.org/abs/1708.05552) | \[**CVPR 2018**]
 
 * [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) | \[**ICML 2018**]
-  * [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) ⭐ 2,721 | 🐛 40 | 🌐 Python | 📅 2023-07-06 | \[Pytorch]
-  * [melodyguan/enas](https://github.com/melodyguan/enas) ⭐ 1,578 | 🐛 84 | 🌐 Python | 📅 2019-06-18 | \[Tensorflow]
+  * [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) ⭐ 2,722 | 🐛 40 | 🌐 Python | 📅 2023-07-06 | \[Pytorch]
+  * [melodyguan/enas](https://github.com/melodyguan/enas) ⭐ 1,579 | 🐛 84 | 🌐 Python | 📅 2019-06-18 | \[Tensorflow]
 
 * [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873) | \[**AAAI 2018**]
 
@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,801 | 🐛 7 | 🌐 Makefile | 📅 2026-10-14 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,799 | 🐛 9 | 🌐 Makefile | 📅 2026-10-19 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -135,7 +135,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Image Classification:**
 
 * [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a.html) | \[**ICML 2019**]
-  * [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) ⭐ 8,220 | 🐛 167 | 🌐 Python | 📅 2022-04-08 | \[Pytorch]
+  * [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) ⭐ 8,219 | 🐛 167 | 🌐 Python | 📅 2022-04-08 | \[Pytorch]
   * [tensorflow/tpu/models/official/efficientnet/](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) ⭐ 5,282 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-06-22 | \[Tensorflow]
 
 * [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) | \[2019/05]
@@ -301,7 +301,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## References
 
-* [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,843 | 🐛 17 | 📅 2021-05-08
+* [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,842 | 🐛 17 | 📅 2021-05-08
 * [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,509 | 🐛 7 | 📅 2022-12-17
 * [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,162 | 🐛 2 | 📅 2024-06-11
 * [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning) ⭐ 3,135 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
@@ -309,4 +309,4 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
