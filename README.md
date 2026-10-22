@@ -40,7 +40,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [renqianluo/NAO](https://github.com/renqianluo/NAO) ⭐ 285 | 🐛 11 | 🌐 Python | 📅 2021-01-11 | \[Tensorflow]
 
 * [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) | \[2018/06]
-  * [quark0/darts](https://github.com/quark0/darts) ⭐ 3,997 | 🐛 95 | 🌐 Python | 📅 2021-01-03 | \[Pytorch]
+  * [quark0/darts](https://github.com/quark0/darts) ⭐ 3,998 | 🐛 95 | 🌐 Python | 📅 2021-01-03 | \[Pytorch]
   * [khanrc/pt.darts](https://github.com/khanrc/pt.darts) ⭐ 451 | 🐛 33 | 🌐 Python | 📅 2022-07-19 | \[Pytorch]
   * [dragen1860/DARTS-PyTorch](https://github.com/dragen1860/DARTS-PyTorch) ⭐ 80 | 🐛 4 | 🌐 Python | 📅 2019-03-01 | \[Pytorch]
 
@@ -62,7 +62,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Transfer Learning with Neural AutoML](http://papers.nips.cc/paper/8056-transfer-learning-with-neural-automl) | \[**NIPS 2018**]
 
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012) | \[2018/07]
-  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,647 | 🐛 1,274 | 🌐 Python | 📅 2026-10-21 | \[Tensorflow]
+  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,646 | 🐛 1,274 | 🌐 Python | 📅 2026-10-22 | \[Tensorflow]
   * [wandering007/nasnet-pytorch](https://github.com/wandering007/nasnet-pytorch) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2020-12-05 | \[Pytorch]
 
 * [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) | \[2018/07]
@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,801 | 🐛 8 | 🌐 Makefile | 📅 2026-10-21 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,806 | 🐛 8 | 🌐 Makefile | 📅 2026-10-21 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -165,7 +165,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [ThunderNet: Towards Real-time Generic Object Detection](https://arxiv.org/abs/1903.11752) | \[2019/03]
 
 * [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | \[2018/09]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,647 | 🐛 1,274 | 🌐 Python | 📅 2026-10-21 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,646 | 🐛 1,274 | 🌐 Python | 📅 2026-10-22 | \[Tensorflow]
 
 * [Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages](https://arxiv.org/abs/1807.11013) | \[**BMVC 2018**]
   * [lyxok1/Tiny-DSOD](https://github.com/lyxok1/Tiny-DSOD) ⭐ 230 | 🐛 20 | 🌐 C++ | 📅 2019-06-07 | \[Caffe]
@@ -185,7 +185,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [dlyldxwl/fssd.pytorch](https://github.com/dlyldxwl/fssd.pytorch) ⭐ 68 | 🐛 9 | 🌐 Python | 📅 2019-03-19 | \[Pytorch]
 
 * [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | \[**CVPR 2017**]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,647 | 🐛 1,274 | 🌐 Python | 📅 2026-10-21 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,646 | 🐛 1,274 | 🌐 Python | 📅 2026-10-22 | \[Tensorflow]
 
 ## 3.) Model Compression & Acceleration
 
@@ -295,7 +295,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 * [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) ⭐ 4,048 | 🐛 141 | 🌐 Python | 📅 2024-03-02 | \[Pytorch]
 
-* [sovrasov/flops-counter.pytorch](https://github.com/sovrasov/flops-counter.pytorch) ⭐ 2,982 | 🐛 29 | 🌐 Python | 📅 2025-08-20 | \[Pytorch]
+* [sovrasov/flops-counter.pytorch](https://github.com/sovrasov/flops-counter.pytorch) ⭐ 2,983 | 🐛 29 | 🌐 Python | 📅 2025-08-20 | \[Pytorch]
 
 * [Netscope CNN Analyzer](https://chakkritte.github.io/netscope/quickstart.html) | \[Caffe]
 
@@ -309,4 +309,4 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

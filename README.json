@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3997,
+                    "stars": 3998,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -344,11 +344,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T16:25:32Z",
+                    "last_commit": "2026-10-22T17:38:40Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77647,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 8,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39801,
+                "stars": 39806,
                 "topics": [
                   "agents",
                   "ai",
@@ -969,11 +969,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T16:25:32Z",
+                    "last_commit": "2026-10-22T17:38:40Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77647,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1258,11 +1258,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T16:25:32Z",
+                    "last_commit": "2026-10-22T17:38:40Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77647,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1854,7 +1854,7 @@
             "open_issues": 29,
             "owner": "sovrasov",
             "repo": "flops-counter.pytorch",
-            "stars": 2982,
+            "stars": 2983,
             "topics": [
               "deep-neural-networks",
               "deeplearning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:36:12.863Z",
+    "last_updated": "2026-10-22T19:29:09.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
