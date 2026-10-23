@@ -344,11 +344,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-22T17:38:40Z",
+                    "last_commit": "2026-10-23T03:36:49Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77646,
+                    "stars": 77648,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -567,11 +567,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-10-21T16:21:42Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-23T11:22:39Z",
+                "open_issues": 9,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39806,
+                "stars": 39811,
                 "topics": [
                   "agents",
                   "ai",
@@ -969,11 +969,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-22T17:38:40Z",
+                    "last_commit": "2026-10-23T03:36:49Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77646,
+                    "stars": 77648,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1258,11 +1258,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-22T17:38:40Z",
+                    "last_commit": "2026-10-23T03:36:49Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77646,
+                    "stars": 77648,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1331,7 +1331,7 @@
                     "open_issues": 13,
                     "owner": "JiahuiYu",
                     "repo": "slimmable_networks",
-                    "stars": 926,
+                    "stars": 925,
                     "topics": [
                       "adaptive",
                       "automated",
@@ -1570,7 +1570,7 @@
                     "open_issues": 43,
                     "owner": "dragonfly",
                     "repo": "dragonfly",
-                    "stars": 895,
+                    "stars": 896,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1733,7 +1733,7 @@
                 "open_issues": 43,
                 "owner": "dragonfly",
                 "repo": "dragonfly",
-                "stars": 895,
+                "stars": 896,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5082,
+            "stars": 5083,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7508,
+            "stars": 7506,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:29:09.791Z",
+    "last_updated": "2026-10-23T19:31:41.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
