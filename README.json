@@ -94,7 +94,7 @@
                     "open_issues": 16,
                     "owner": "enyac-group",
                     "repo": "single-path-nas",
-                    "stars": 394,
+                    "stars": 393,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3998,
+                    "stars": 3997,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -313,7 +313,7 @@
                     "open_issues": 2,
                     "owner": "mit-han-lab",
                     "repo": "proxylessnas",
-                    "stars": 1450,
+                    "stars": 1449,
                     "topics": [
                       "acceleration",
                       "automl",
@@ -348,7 +348,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648,
+                    "stars": 77650,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -433,7 +433,7 @@
                     "open_issues": 40,
                     "owner": "carpedm20",
                     "repo": "ENAS-pytorch",
-                    "stars": 2722,
+                    "stars": 2721,
                     "topics": [
                       "google-brain",
                       "neural-architecture-search",
@@ -567,8 +567,8 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-10-23T11:22:39Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-23T21:25:34Z",
+                "open_issues": 8,
                 "owner": "mindsdb",
                 "repo": "mindshub",
                 "stars": 39811,
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14367,
+                "stars": 14365,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -668,7 +668,7 @@
                     "open_issues": 167,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8219,
+                    "stars": 8218,
                     "topics": [
                       "efficientnet-pytorch",
                       "feature-extraction",
@@ -973,7 +973,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648,
+                    "stars": 77650,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648,
+                    "stars": 77650,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1466,7 +1466,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-02-09T03:48:56Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "andravin",
                     "repo": "wincnn",
                     "stars": 630,
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14367,
+                "stars": 14365,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10843,
+            "stars": 10844,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:31:41.122Z",
+    "last_updated": "2026-10-24T18:21:02.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
