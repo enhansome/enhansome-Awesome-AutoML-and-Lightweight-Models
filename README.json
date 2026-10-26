@@ -313,7 +313,7 @@
                     "open_issues": 2,
                     "owner": "mit-han-lab",
                     "repo": "proxylessnas",
-                    "stars": 1449,
+                    "stars": 1450,
                     "topics": [
                       "acceleration",
                       "automl",
@@ -344,11 +344,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-23T03:36:49Z",
+                    "last_commit": "2026-10-26T17:40:40Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77650,
+                    "stars": 77647,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 8,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39814,
+                "stars": 39827,
                 "topics": [
                   "agents",
                   "ai",
@@ -665,10 +665,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2022-04-08T12:30:25Z",
-                    "open_issues": 167,
+                    "open_issues": 168,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8218,
+                    "stars": 8219,
                     "topics": [
                       "efficientnet-pytorch",
                       "feature-extraction",
@@ -694,7 +694,7 @@
                     "open_issues": 320,
                     "owner": "tensorflow",
                     "repo": "tpu",
-                    "stars": 5283,
+                    "stars": 5282,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -969,11 +969,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-23T03:36:49Z",
+                    "last_commit": "2026-10-26T17:40:40Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77650,
+                    "stars": 77647,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1258,11 +1258,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-23T03:36:49Z",
+                    "last_commit": "2026-10-26T17:40:40Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77650,
+                    "stars": 77647,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1499,7 +1499,7 @@
                 "open_issues": 75,
                 "owner": "Tencent",
                 "repo": "PocketFlow",
-                "stars": 2914,
+                "stars": 2915,
                 "topics": [
                   "automl",
                   "computer-vision",
@@ -1526,7 +1526,7 @@
                 "open_issues": 11,
                 "owner": "aaron-xichen",
                 "repo": "pytorch-playground",
-                "stars": 2723,
+                "stars": 2724,
                 "topics": [
                   "pytorch",
                   "pytorch-tutorial",
@@ -1766,7 +1766,7 @@
                     "open_issues": 5,
                     "owner": "krasserm",
                     "repo": "bayesian-machine-learning",
-                    "stars": 1919,
+                    "stars": 1920,
                     "topics": [
                       "bayesian-machine-learning",
                       "bayesian-methods",
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5084,
+            "stars": 5085,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7508,
+            "stars": 7509,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1969,7 +1969,7 @@
             "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3135,
+            "stars": 3133,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:32:37.342Z",
+    "last_updated": "2026-10-26T20:44:40.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
