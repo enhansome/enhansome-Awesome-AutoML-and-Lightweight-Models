@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3997,
+                    "stars": 3999,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -344,7 +344,7 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-29T08:21:25Z",
+                    "last_commit": "2026-10-30T07:24:38Z",
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
@@ -571,7 +571,7 @@
                 "open_issues": 8,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39831,
+                "stars": 39834,
                 "topics": [
                   "agents",
                   "ai",
@@ -668,7 +668,7 @@
                     "open_issues": 167,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8218,
+                    "stars": 8219,
                     "topics": [
                       "efficientnet-pytorch",
                       "feature-extraction",
@@ -969,7 +969,7 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-29T08:21:25Z",
+                    "last_commit": "2026-10-30T07:24:38Z",
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
@@ -1087,7 +1087,7 @@
                     "open_issues": 58,
                     "owner": "GOATmessi8",
                     "repo": "RFBNet",
-                    "stars": 1415,
+                    "stars": 1416,
                     "topics": [
                       "detection",
                       "mobilenet",
@@ -1140,7 +1140,7 @@
                     "open_issues": 40,
                     "owner": "ShuangXieIrene",
                     "repo": "ssds.pytorch",
-                    "stars": 565,
+                    "stars": 566,
                     "topics": [
                       "darknet",
                       "fssd",
@@ -1204,7 +1204,7 @@
                     "open_issues": 40,
                     "owner": "ShuangXieIrene",
                     "repo": "ssds.pytorch",
-                    "stars": 565,
+                    "stars": 566,
                     "topics": [
                       "darknet",
                       "fssd",
@@ -1258,7 +1258,7 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-29T08:21:25Z",
+                    "last_commit": "2026-10-30T07:24:38Z",
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
@@ -1401,7 +1401,7 @@
                     "open_issues": 21,
                     "owner": "ethanhe42",
                     "repo": "channel-pruning",
-                    "stars": 1088,
+                    "stars": 1089,
                     "topics": [
                       "acceleration",
                       "channel-pruning",
@@ -1499,7 +1499,7 @@
                 "open_issues": 75,
                 "owner": "Tencent",
                 "repo": "PocketFlow",
-                "stars": 2915,
+                "stars": 2916,
                 "topics": [
                   "automl",
                   "computer-vision",
@@ -1854,7 +1854,7 @@
             "open_issues": 29,
             "owner": "sovrasov",
             "repo": "flops-counter.pytorch",
-            "stars": 2983,
+            "stars": 2984,
             "topics": [
               "deep-neural-networks",
               "deeplearning",
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10846,
+            "stars": 10848,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7509,
+            "stars": 7511,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:34:58.187Z",
+    "last_updated": "2026-10-30T20:07:51.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
@@ -1993,10 +1993,10 @@
       "language": null,
       "license": null,
       "last_commit": "2021-06-19T07:06:34Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "guan-yuan",
       "repo": "Awesome-AutoML-and-Lightweight-Models",
-      "stars": 855,
+      "stars": 854,
       "topics": [
         "architecture-search",
         "automated-feature-engineering",
