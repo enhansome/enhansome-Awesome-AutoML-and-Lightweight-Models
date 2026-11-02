@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14366,
+                "stars": 14367,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -668,7 +668,7 @@
                     "open_issues": 167,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8219,
+                    "stars": 8218,
                     "topics": [
                       "efficientnet-pytorch",
                       "feature-extraction",
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14366,
+                "stars": 14367,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1969,7 +1969,7 @@
             "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3132,
+            "stars": 3133,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:53:26.730Z",
+    "last_updated": "2026-11-02T23:12:26.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",

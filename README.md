@@ -135,7 +135,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Image Classification:**
 
 * [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a.html) | \[**ICML 2019**]
-  * [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) ⭐ 8,219 | 🐛 167 | 🌐 Python | 📅 2022-04-08 | \[Pytorch]
+  * [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) ⭐ 8,218 | 🐛 167 | 🌐 Python | 📅 2022-04-08 | \[Pytorch]
   * [tensorflow/tpu/models/official/efficientnet/](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) ⭐ 5,282 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-06-22 | \[Tensorflow]
 
 * [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) | \[2019/05]
@@ -304,9 +304,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,848 | 🐛 17 | 📅 2021-05-08
 * [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,513 | 🐛 7 | 📅 2022-12-17
 * [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,163 | 🐛 2 | 📅 2024-06-11
-* [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning) ⭐ 3,132 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
+* [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning) ⭐ 3,133 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
 * [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
