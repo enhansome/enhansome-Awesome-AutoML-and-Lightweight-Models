@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3999,
+                    "stars": 3998,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -348,7 +348,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77633,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -458,7 +458,7 @@
                     "open_issues": 84,
                     "owner": "melodyguan",
                     "repo": "enas",
-                    "stars": 1579,
+                    "stars": 1580,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39845,
+                "stars": 39848,
                 "topics": [
                   "agents",
                   "ai",
@@ -973,7 +973,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77633,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77633,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1499,7 +1499,7 @@
                 "open_issues": 75,
                 "owner": "Tencent",
                 "repo": "PocketFlow",
-                "stars": 2915,
+                "stars": 2914,
                 "topics": [
                   "automl",
                   "computer-vision",
@@ -1943,7 +1943,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4165,
+            "stars": 4166,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:03:06.388Z",
+    "last_updated": "2026-11-07T19:36:46.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
