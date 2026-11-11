@@ -60,7 +60,7 @@
                     "open_issues": 15,
                     "owner": "D-X-Y",
                     "repo": "AutoDL-Projects",
-                    "stars": 1581,
+                    "stars": 1583,
                     "topics": [
                       "autodl",
                       "automl",
@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3998,
+                    "stars": 3999,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -348,7 +348,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77636,
+                    "stars": 77635,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -433,7 +433,7 @@
                     "open_issues": 40,
                     "owner": "carpedm20",
                     "repo": "ENAS-pytorch",
-                    "stars": 2722,
+                    "stars": 2723,
                     "topics": [
                       "google-brain",
                       "neural-architecture-search",
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39854,
+                "stars": 39858,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14364,
+                "stars": 14365,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -668,7 +668,7 @@
                     "open_issues": 167,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8219,
+                    "stars": 8220,
                     "topics": [
                       "efficientnet-pytorch",
                       "feature-extraction",
@@ -889,7 +889,7 @@
                     "open_issues": 41,
                     "owner": "yu-changqian",
                     "repo": "TorchSeg",
-                    "stars": 1409,
+                    "stars": 1408,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -973,7 +973,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77636,
+                    "stars": 77635,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77636,
+                    "stars": 77635,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1367,7 +1367,7 @@
                     "open_issues": 16,
                     "owner": "foolwood",
                     "repo": "pytorch-slimming",
-                    "stars": 574,
+                    "stars": 573,
                     "topics": [
                       "deep-learning",
                       "fast-inference",
@@ -1401,7 +1401,7 @@
                     "open_issues": 21,
                     "owner": "ethanhe42",
                     "repo": "channel-pruning",
-                    "stars": 1089,
+                    "stars": 1088,
                     "topics": [
                       "acceleration",
                       "channel-pruning",
@@ -1437,7 +1437,7 @@
                     "open_issues": 31,
                     "owner": "jacobgil",
                     "repo": "pytorch-pruning",
-                    "stars": 884,
+                    "stars": 883,
                     "topics": [
                       "deep-learning",
                       "pruning",
@@ -1598,7 +1598,7 @@
                     "open_issues": 0,
                     "owner": "LiYangHart",
                     "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                    "stars": 1346,
+                    "stars": 1347,
                     "topics": [
                       "artificial-neural-networks",
                       "automated-machine-learning",
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14364,
+                "stars": 14365,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1691,7 +1691,7 @@
                 "open_issues": 0,
                 "owner": "LiYangHart",
                 "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "artificial-neural-networks",
                   "automated-machine-learning",
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10851,
+            "stars": 10852,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7516,
+            "stars": 7517,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1969,7 +1969,7 @@
             "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3132,
+            "stars": 3133,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:25:16.687Z",
+    "last_updated": "2026-11-11T22:15:16.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
