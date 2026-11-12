@@ -348,7 +348,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77635,
+                    "stars": 77636,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39858,
+                "stars": 39865,
                 "topics": [
                   "agents",
                   "ai",
@@ -750,7 +750,7 @@
                     "open_issues": 7,
                     "owner": "leaderj1001",
                     "repo": "MobileNetV3-Pytorch",
-                    "stars": 300,
+                    "stars": 299,
                     "topics": [
                       "cifar-10",
                       "cifar-100",
@@ -973,7 +973,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77635,
+                    "stars": 77636,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77635,
+                    "stars": 77636,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5084,
+            "stars": 5083,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10852,
+            "stars": 10853,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7517,
+            "stars": 7516,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:15:16.780Z",
+    "last_updated": "2026-11-12T21:54:52.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
