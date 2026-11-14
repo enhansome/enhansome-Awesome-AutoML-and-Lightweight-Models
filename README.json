@@ -348,7 +348,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77633,
+                    "stars": 77631,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39864,
+                "stars": 39863,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14365,
+                "stars": 14367,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -668,7 +668,7 @@
                     "open_issues": 167,
                     "owner": "lukemelas",
                     "repo": "EfficientNet-PyTorch",
-                    "stars": 8220,
+                    "stars": 8222,
                     "topics": [
                       "efficientnet-pytorch",
                       "feature-extraction",
@@ -973,7 +973,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77633,
+                    "stars": 77631,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77633,
+                    "stars": 77631,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14365,
+                "stars": 14367,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:37:03.747Z",
+    "last_updated": "2026-11-14T20:04:23.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
