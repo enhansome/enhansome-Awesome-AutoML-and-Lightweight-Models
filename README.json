@@ -344,11 +344,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T23:22:42Z",
+                    "last_commit": "2026-11-16T22:46:00Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77629,
+                    "stars": 77628,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -458,7 +458,7 @@
                     "open_issues": 84,
                     "owner": "melodyguan",
                     "repo": "enas",
-                    "stars": 1580,
+                    "stars": 1581,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -568,10 +568,10 @@
                 "language": "Makefile",
                 "license": "MIT",
                 "last_commit": "2026-10-23T21:25:34Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39861,
+                "stars": 39862,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14366,
+                "stars": 14367,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -694,7 +694,7 @@
                     "open_issues": 318,
                     "owner": "tensorflow",
                     "repo": "tpu",
-                    "stars": 5280,
+                    "stars": 5281,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -910,7 +910,7 @@
                     "open_issues": 23,
                     "owner": "ooooverflow",
                     "repo": "BiSeNet",
-                    "stars": 410,
+                    "stars": 409,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -938,7 +938,7 @@
                     "open_issues": 14,
                     "owner": "Eromera",
                     "repo": "erfnet_pytorch",
-                    "stars": 444,
+                    "stars": 445,
                     "topics": [
                       "cityscapes",
                       "erfnet",
@@ -969,11 +969,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T23:22:42Z",
+                    "last_commit": "2026-11-16T22:46:00Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77629,
+                    "stars": 77628,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1258,11 +1258,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T23:22:42Z",
+                    "last_commit": "2026-11-16T22:46:00Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77629,
+                    "stars": 77628,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14366,
+                "stars": 14367,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7516,
+            "stars": 7517,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:33:21.157Z",
+    "last_updated": "2026-11-16T23:50:16.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
