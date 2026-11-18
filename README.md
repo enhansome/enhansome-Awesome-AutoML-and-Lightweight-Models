@@ -40,7 +40,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [renqianluo/NAO](https://github.com/renqianluo/NAO) ⭐ 285 | 🐛 11 | 🌐 Python | 📅 2021-01-11 | \[Tensorflow]
 
 * [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) | \[2018/06]
-  * [quark0/darts](https://github.com/quark0/darts) ⭐ 3,999 | 🐛 95 | 🌐 Python | 📅 2021-01-03 | \[Pytorch]
+  * [quark0/darts](https://github.com/quark0/darts) ⭐ 4,000 | 🐛 95 | 🌐 Python | 📅 2021-01-03 | \[Pytorch]
   * [khanrc/pt.darts](https://github.com/khanrc/pt.darts) ⭐ 451 | 🐛 33 | 🌐 Python | 📅 2022-07-19 | \[Pytorch]
   * [dragen1860/DARTS-PyTorch](https://github.com/dragen1860/DARTS-PyTorch) ⭐ 80 | 🐛 4 | 🌐 Python | 📅 2019-03-01 | \[Pytorch]
 
@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,863 | 🐛 6 | 🌐 Makefile | 📅 2026-10-23 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,865 | 🐛 6 | 🌐 Makefile | 📅 2026-10-23 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -301,12 +301,12 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## References
 
-* [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,851 | 🐛 17 | 📅 2021-05-08
+* [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,852 | 🐛 17 | 📅 2021-05-08
 * [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,518 | 🐛 7 | 📅 2022-12-17
-* [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,166 | 🐛 2 | 📅 2024-06-11
+* [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,167 | 🐛 2 | 📅 2024-06-11
 * [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning) ⭐ 3,133 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
 * [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
