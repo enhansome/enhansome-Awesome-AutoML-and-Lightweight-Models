@@ -348,7 +348,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77629,
+                    "stars": 77630,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39868,
+                "stars": 39867,
                 "topics": [
                   "agents",
                   "ai",
@@ -608,7 +608,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14369,
+                "stars": 14371,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -889,7 +889,7 @@
                     "open_issues": 41,
                     "owner": "yu-changqian",
                     "repo": "TorchSeg",
-                    "stars": 1407,
+                    "stars": 1408,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -973,7 +973,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77629,
+                    "stars": 77630,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77629,
+                    "stars": 77630,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1570,7 +1570,7 @@
                     "open_issues": 43,
                     "owner": "dragonfly",
                     "repo": "dragonfly",
-                    "stars": 897,
+                    "stars": 898,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1598,7 +1598,7 @@
                     "open_issues": 0,
                     "owner": "LiYangHart",
                     "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                    "stars": 1344,
+                    "stars": 1345,
                     "topics": [
                       "artificial-neural-networks",
                       "automated-machine-learning",
@@ -1649,7 +1649,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14369,
+                "stars": 14371,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -1691,7 +1691,7 @@
                 "open_issues": 0,
                 "owner": "LiYangHart",
                 "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                "stars": 1344,
+                "stars": 1345,
                 "topics": [
                   "artificial-neural-networks",
                   "automated-machine-learning",
@@ -1733,7 +1733,7 @@
                 "open_issues": 43,
                 "owner": "dragonfly",
                 "repo": "dragonfly",
-                "stars": 897,
+                "stars": 898,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1766,7 +1766,7 @@
                     "open_issues": 5,
                     "owner": "krasserm",
                     "repo": "bayesian-machine-learning",
-                    "stars": 1920,
+                    "stars": 1921,
                     "topics": [
                       "bayesian-machine-learning",
                       "bayesian-methods",
@@ -1807,7 +1807,7 @@
             "open_issues": 84,
             "owner": "Lyken17",
             "repo": "pytorch-OpCounter",
-            "stars": 5083,
+            "stars": 5084,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1828,7 +1828,7 @@
             "open_issues": 141,
             "owner": "sksq96",
             "repo": "pytorch-summary",
-            "stars": 4045,
+            "stars": 4044,
             "topics": [
               "deep-learning",
               "keras",
@@ -1854,7 +1854,7 @@
             "open_issues": 29,
             "owner": "sovrasov",
             "repo": "flops-counter.pytorch",
-            "stars": 2984,
+            "stars": 2985,
             "topics": [
               "deep-neural-networks",
               "deeplearning",
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7516,
+            "stars": 7517,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1969,7 +1969,7 @@
             "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3132,
+            "stars": 3133,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:45:28.839Z",
+    "last_updated": "2026-11-20T22:20:36.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
