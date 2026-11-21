@@ -178,7 +178,7 @@
                     "open_issues": 95,
                     "owner": "quark0",
                     "repo": "darts",
-                    "stars": 3999,
+                    "stars": 3998,
                     "topics": [
                       "automl",
                       "convolutional-networks",
@@ -348,7 +348,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77630,
+                    "stars": 77631,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39867,
+                "stars": 39868,
                 "topics": [
                   "agents",
                   "ai",
@@ -973,7 +973,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77630,
+                    "stars": 77631,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77630,
+                    "stars": 77631,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1303,7 +1303,7 @@
                     "open_issues": 13,
                     "owner": "google-research",
                     "repo": "lottery-ticket-hypothesis",
-                    "stars": 730,
+                    "stars": 729,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1890,7 +1890,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10850,
+            "stars": 10851,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1916,7 +1916,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7517,
+            "stars": 7518,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:20:36.264Z",
+    "last_updated": "2026-11-21T21:07:48.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
