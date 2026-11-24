@@ -62,7 +62,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Transfer Learning with Neural AutoML](http://papers.nips.cc/paper/8056-transfer-learning-with-neural-automl) | \[**NIPS 2018**]
 
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012) | \[2018/07]
-  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,631 | 🐛 1,274 | 🌐 Python | 📅 2026-11-16 | \[Tensorflow]
+  * [tensorflow/models/research/slim/nets/nasnet](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) ⭐ 77,635 | 🐛 1,272 | 🌐 Python | 📅 2026-11-16 | \[Tensorflow]
   * [wandering007/nasnet-pytorch](https://github.com/wandering007/nasnet-pytorch) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2020-12-05 | \[Pytorch]
 
 * [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) | \[2018/07]
@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,875 | 🐛 6 | 🌐 Makefile | 📅 2026-10-23 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,883 | 🐛 6 | 🌐 Makefile | 📅 2026-10-23 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -165,7 +165,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [ThunderNet: Towards Real-time Generic Object Detection](https://arxiv.org/abs/1903.11752) | \[2019/03]
 
 * [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | \[2018/09]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,631 | 🐛 1,274 | 🌐 Python | 📅 2026-11-16 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,635 | 🐛 1,272 | 🌐 Python | 📅 2026-11-16 | \[Tensorflow]
 
 * [Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages](https://arxiv.org/abs/1807.11013) | \[**BMVC 2018**]
   * [lyxok1/Tiny-DSOD](https://github.com/lyxok1/Tiny-DSOD) ⭐ 230 | 🐛 20 | 🌐 C++ | 📅 2019-06-07 | \[Caffe]
@@ -185,7 +185,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   * [dlyldxwl/fssd.pytorch](https://github.com/dlyldxwl/fssd.pytorch) ⭐ 68 | 🐛 9 | 🌐 Python | 📅 2019-03-19 | \[Pytorch]
 
 * [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | \[**CVPR 2017**]
-  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,631 | 🐛 1,274 | 🌐 Python | 📅 2026-11-16 | \[Tensorflow]
+  * [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) ⭐ 77,635 | 🐛 1,272 | 🌐 Python | 📅 2026-11-16 | \[Tensorflow]
 
 ## 3.) Model Compression & Acceleration
 
@@ -199,7 +199,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270) | \[**ICLR 2019**]
 
 * [Slimmable Neural Networks](https://openreview.net/pdf?id=H1gMCsAqY7) | \[**ICLR 2019**]
-  * [JiahuiYu/slimmable\_networks](https://github.com/JiahuiYu/slimmable_networks) ⭐ 926 | 🐛 13 | 🌐 Python | 📅 2023-03-09 | \[Pytorch]
+  * [JiahuiYu/slimmable\_networks](https://github.com/JiahuiYu/slimmable_networks) ⭐ 927 | 🐛 13 | 🌐 Python | 📅 2023-03-09 | \[Pytorch]
 
 * [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) | \[**ECCV 2018**]
   * [AutoML for Model Compression (AMC): Trials and Tribulations](https://github.com/NervanaSystems/distiller/wiki/AutoML-for-Model-Compression-\(AMC\):-Trials-and-Tribulations) | \[Pytorch]
@@ -244,7 +244,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Acceleration:**
 
 * [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | \[**CVPR 2016**]
-  * [andravin/wincnn](https://github.com/andravin/wincnn) ⭐ 630 | 🐛 7 | 🌐 Python | 📅 2026-02-09 | \[Python]
+  * [andravin/wincnn](https://github.com/andravin/wincnn) ⭐ 630 | 🐛 6 | 🌐 Python | 📅 2026-02-09 | \[Python]
 
 ### **\[Projects]**
 
@@ -291,7 +291,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## Model Analyzer
 
-* [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) ⭐ 5,084 | 🐛 84 | 🌐 Python | 📅 2024-07-08 | \[Pytorch]
+* [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) ⭐ 5,083 | 🐛 84 | 🌐 Python | 📅 2024-07-08 | \[Pytorch]
 
 * [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) ⭐ 4,044 | 🐛 141 | 🌐 Python | 📅 2024-03-02 | \[Pytorch]
 
@@ -301,12 +301,12 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## References
 
-* [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,851 | 🐛 17 | 📅 2021-05-08
-* [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,519 | 🐛 7 | 📅 2022-12-17
+* [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,852 | 🐛 17 | 📅 2021-05-08
+* [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,520 | 🐛 7 | 📅 2022-12-17
 * [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,165 | 🐛 2 | 📅 2024-06-11
 * [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning) ⭐ 3,133 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
 * [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
