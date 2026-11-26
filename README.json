@@ -571,7 +571,7 @@
                 "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39891,
+                "stars": 39896,
                 "topics": [
                   "agents",
                   "ai",
@@ -785,7 +785,7 @@
                     "open_issues": 7,
                     "owner": "wutianyiRosun",
                     "repo": "CGNet",
-                    "stars": 280,
+                    "stars": 281,
                     "topics": [
                       "camvid",
                       "cityscapes",
@@ -1969,7 +1969,7 @@
             "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3133,
+            "stars": 3132,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:46:36.120Z",
+    "last_updated": "2026-11-26T23:59:38.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",

@@ -125,7 +125,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **\[Projects]**
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,891 | 🐛 7 | 🌐 Makefile | 📅 2026-11-25 | \[Python]
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,896 | 🐛 7 | 🌐 Makefile | 📅 2026-11-25 | \[Python]
 * [Microsoft/nni](https://github.com/Microsoft/nni) ⚠️ Archived | \[Python]
 
 ## 2.) Lightweight Structures
@@ -145,7 +145,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Semantic Segmentation:**
 
 * [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/abs/1811.08201) | \[2019/04]
-  * [wutianyiRosun/CGNet](https://github.com/wutianyiRosun/CGNet) ⭐ 280 | 🐛 7 | 🌐 Python | 📅 2022-02-16 | \[Pytorch]
+  * [wutianyiRosun/CGNet](https://github.com/wutianyiRosun/CGNet) ⭐ 281 | 🐛 7 | 🌐 Python | 📅 2022-02-16 | \[Pytorch]
 
 * [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | \[2018/11]
   * [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) ⭐ 456 | 🐛 2 | 🌐 Python | 📅 2021-01-29 | \[Pytorch]
@@ -304,9 +304,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 * [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,854 | 🐛 17 | 📅 2021-05-08
 * [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,520 | 🐛 7 | 📅 2022-12-17
 * [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,166 | 🐛 2 | 📅 2024-06-11
-* [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning) ⭐ 3,133 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
+* [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning) ⭐ 3,132 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
 * [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
