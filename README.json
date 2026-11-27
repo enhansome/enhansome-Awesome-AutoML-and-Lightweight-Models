@@ -348,7 +348,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77636,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -571,7 +571,7 @@
                 "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39896,
+                "stars": 39894,
                 "topics": [
                   "agents",
                   "ai",
@@ -722,7 +722,7 @@
                     "open_issues": 9,
                     "owner": "kuan-wang",
                     "repo": "pytorch-mobilenet-v3",
-                    "stars": 806,
+                    "stars": 805,
                     "topics": [
                       "classification",
                       "imagenet",
@@ -973,7 +973,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77636,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77636,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:06:00.244Z"
@@ -1598,7 +1598,7 @@
                     "open_issues": 0,
                     "owner": "LiYangHart",
                     "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                    "stars": 1345,
+                    "stars": 1346,
                     "topics": [
                       "artificial-neural-networks",
                       "automated-machine-learning",
@@ -1691,7 +1691,7 @@
                 "open_issues": 0,
                 "owner": "LiYangHart",
                 "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-                "stars": 1345,
+                "stars": 1346,
                 "topics": [
                   "artificial-neural-networks",
                   "automated-machine-learning",
@@ -1854,7 +1854,7 @@
             "open_issues": 29,
             "owner": "sovrasov",
             "repo": "flops-counter.pytorch",
-            "stars": 2985,
+            "stars": 2984,
             "topics": [
               "deep-neural-networks",
               "deeplearning",
@@ -1984,7 +1984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:59:38.303Z",
+    "last_updated": "2026-11-27T23:43:35.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
